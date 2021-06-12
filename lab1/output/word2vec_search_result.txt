@@ -1,0 +1,78 @@
+For query: power price
+Result is 
+maildir\kean-s\discussion_threads\1789
+maildir\kean-s\all_documents\2141
+maildir\kean-s\calendar\untitled\2142
+maildir\kean-s\archiving\untitled\186
+maildir\dasovich-j\notes_inbox\3712
+maildir\dasovich-j\all_documents\11968
+maildir\dasovich-j\notes_inbox\2325
+maildir\dasovich-j\all_documents\4380
+maildir\dasovich-j\all_documents\4336
+maildir\dasovich-j\notes_inbox\2284
+==============================================================================
+For query: meeting price
+Result is 
+maildir\crandell-s\inbox\rto_west\12
+maildir\campbell-l\discussion_threads\1615
+maildir\campbell-l\notes_inbox\567
+maildir\campbell-l\all_documents\1783
+maildir\jones-t\sent\5309
+maildir\jones-t\all_documents\8974
+maildir\hain-m\discussion_threads\633
+maildir\hain-m\notes_inbox\538
+maildir\hain-m\all_documents\647
+maildir\steffes-j\ees_mgmt\6
+==============================================================================
+For query: issues meeting offer
+Result is 
+maildir\kean-s\all_documents\677
+maildir\kean-s\discussion_threads\614
+maildir\kean-s\archiving\untitled\1651
+maildir\kean-s\calendar\untitled\677
+maildir\kean-s\wto\6
+maildir\hain-m\all_documents\99
+maildir\kean-s\all_documents\513
+maildir\hain-m\discussion_threads\1141
+maildir\kean-s\sent\53
+maildir\kean-s\archiving\untitled\1814
+==============================================================================
+For query: power offer issues
+Result is 
+maildir\dasovich-j\all_documents\7745
+maildir\dasovich-j\notes_inbox\6124
+maildir\kean-s\all_documents\1743
+maildir\kean-s\discussion_threads\1488
+maildir\kean-s\archiving\untitled\584
+maildir\kean-s\calendar\untitled\1744
+maildir\fossum-d\all_documents\616
+maildir\kean-s\heat_wave\29
+maildir\fossum-d\discussion_threads\369
+maildir\fossum-d\notes_inbox\334
+==============================================================================
+For query: power price meeting issues offer
+Result is 
+maildir\kean-s\discussion_threads\1488
+maildir\kean-s\all_documents\1743
+maildir\kean-s\heat_wave\29
+maildir\kean-s\archiving\untitled\584
+maildir\kean-s\calendar\untitled\1744
+maildir\fossum-d\all_documents\616
+maildir\fossum-d\discussion_threads\369
+maildir\fossum-d\notes_inbox\334
+maildir\scott-s\discussion_threads\423
+maildir\scott-s\all_documents\524
+==============================================================================
+For query: offer
+Result is 
+maildir\allen-p\discussion_threads\549
+maildir\allen-p\notes_inbox\47
+maildir\allen-p\all_documents\358
+maildir\mims-thurston-p\deleted_items\507
+maildir\mims-thurston-p\deleted_items\386
+maildir\quigley-d\private_folders\ffl\3
+maildir\keavey-p\notes_inbox\35
+maildir\keavey-p\discussion_threads\158
+maildir\keavey-p\all_documents\37
+maildir\arnold-j\deleted_items\642
+==============================================================================

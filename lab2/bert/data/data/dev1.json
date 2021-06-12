@@ -1,0 +1,768 @@
+{"text": "Many excellent musicians emanated from Ihe Hoosier state .", "rel": "Entity-Origin", "ent1": "state", "ent2": "state"}
+{"text": "The child was carefully wrapped and bound into the cradle by means of a cord.", "rel": "Other", "ent1": "cradle", "ent2": "cradle"}
+{"text": "I have read the comments made by Micheal Hortin with regard to this decision and would like to make the following observations.", "rel": "Message-Topic", "ent1": "decision", "ent2": "decision"}
+{"text": "The plane went away from the runway and burst into flames.", "rel": "Entity-Origin", "ent1": "runway", "ent2": "runway"}
+{"text": "A new insulated pizza bag is delivered to the market .", "rel": "Other", "ent1": "market", "ent2": "market"}
+{"text": "Maddie's parents killed her with sleeping pills .", "rel": "Instrument-Agency", "ent1": "parents", "ent2": "parents"}
+{"text": "The team journeyed into an uncharted area .", "rel": "Entity-Destination", "ent1": "area", "ent2": "area"}
+{"text": "The three fireplaces in the cottage are constructed of random stones with mortar joints raised and rounded.", "rel": "Component-Whole", "ent1": "cottage", "ent2": "cottage"}
+{"text": "The scientist is pouring beakers into the formula .", "rel": "Entity-Destination", "ent1": "formula", "ent2": "formula"}
+{"text": "In Wuthering Heights by Emily Bronte's, the author uses repetition as a device to give us the full understanding of the characters.", "rel": "Instrument-Agency", "ent1": "author", "ent2": "author"}
+{"text": "Once outside, the python was placed in a bag , which was put inside a dog crate.", "rel": "Entity-Destination", "ent1": "bag", "ent2": "bag"}
+{"text": "The scandals are caused by the young female celebs who 'inadvertently' reveal glimpses of their naked faces as they get out of limousines.", "rel": "Cause-Effect", "ent1": "scandals", "ent2": "scandals"}
+{"text": "The program assists separating families in high conflict over parenting arrangements.", "rel": "Instrument-Agency", "ent1": "families", "ent2": "families"}
+{"text": "The speech also devoted considerable time to foreign affairs .", "rel": "Message-Topic", "ent1": "affairs", "ent2": "affairs"}
+{"text": "The team journeyed into an uncharted area .", "rel": "Entity-Destination", "ent1": "area", "ent2": "area"}
+{"text": "The theory explained low-temperature superconductivity almost 50 years after its discovery.", "rel": "Message-Topic", "ent1": "superconductivity", "ent2": "superconductivity"}
+{"text": "The stainless-steel vessel was filled with nitrogen , and the pressure in the outer volume of the chamber was kept steady.", "rel": "Entity-Destination", "ent1": "vessel", "ent2": "vessel"}
+{"text": "He was a maker of things, a builder of institutions , a harvester and disseminator and progenitor of ideas and the means whereby those ideas were made flesh.", "rel": "Product-Producer", "ent1": "builder", "ent2": "builder"}
+{"text": "He put a gallon into his cart and walked back to the front of the store.", "rel": "Entity-Destination", "ent1": "cart", "ent2": "cart"}
+{"text": "Our ancestors have passed on knowledge to descendants .", "rel": "Other", "ent1": "descendants", "ent2": "descendants"}
+{"text": "The flapper of the valve opens and oxygen from the hose enters.", "rel": "Component-Whole", "ent1": "valve", "ent2": "valve"}
+{"text": "Texas prepares for crush of executions .", "rel": "Other", "ent1": "executions", "ent2": "executions"}
+{"text": "The three ship fleet of Columbus consisted of two ships known as caravels (Pinta and Nina) and a larger ship which served as Columbus's flag ship.", "rel": "Member-Collection", "ent1": "fleet", "ent2": "fleet"}
+{"text": "The tourist was taking a trip into the amazing jungle of Amazon.", "rel": "Entity-Destination", "ent1": "jungle", "ent2": "jungle"}
+{"text": "These are the most typical student edition textbooks .", "rel": "Instrument-Agency", "ent1": "student", "ent2": "student"}
+{"text": "A thief who tried to steal the truck broke the igenition with screwdriver .", "rel": "Instrument-Agency", "ent1": "thief", "ent2": "thief"}
+{"text": "In the meantime, an unlikely menage of Payaya natives , Franciscan padres, Canary Islanders and Spanish soldiers struggle to bring the city together as winter approaches.", "rel": "Member-Collection", "ent1": "menage", "ent2": "menage"}
+{"text": "Williams syndrome: a genetic disorder that results in selective cognitive impairment .", "rel": "Cause-Effect", "ent1": "impairment", "ent2": "impairment"}
+{"text": "The crust of the earth is composed of a great variety of igneous, metamorphic, and sedimentary rocks.", "rel": "Component-Whole", "ent1": "earth", "ent2": "earth"}
+{"text": "Sip the tea slowly to reduce stomach pain from indigestion , bloating and feeling of fullness.", "rel": "Cause-Effect", "ent1": "pain", "ent2": "pain"}
+{"text": "Specific viral RNA and antigen were detected by reverse-transcription PCR and immunohistochemical evaluation, respectively, in nasal turbinates of birds .", "rel": "Component-Whole", "ent1": "birds", "ent2": "birds"}
+{"text": "A car dealer attaches a license plate to a minivan sold at a Eugene dealership.", "rel": "Instrument-Agency", "ent1": "dealer", "ent2": "dealer"}
+{"text": "The user-friendly control device is mounted on the handgrip of the wheelchair .", "rel": "Component-Whole", "ent1": "wheelchair", "ent2": "wheelchair"}
+{"text": "The first seismic arrival from an earthquake is the P wave, which is usually relatively low-amplitude.", "rel": "Cause-Effect", "ent1": "seismic arrival", "ent2": "seismic arrival"}
+{"text": "The servant who carves removes the fat with a spoon .", "rel": "Instrument-Agency", "ent1": "servant", "ent2": "servant"}
+{"text": "An advance visit was made by staff to arrange the visits.", "rel": "Other", "ent1": "staff", "ent2": "staff"}
+{"text": "To date, all outbreaks of the highly pathogenic form of avian influenza have been caused by viruses of the H5 and H7 subtypes.", "rel": "Cause-Effect", "ent1": "outbreaks", "ent2": "outbreaks"}
+{"text": "Brendel's own admission of his limitations is laudable, especially in light of the clique of idolatrous Brendel fans which formed in the 1980s.", "rel": "Member-Collection", "ent1": "clique", "ent2": "clique"}
+{"text": "Second, the user removes the safety clip from the grenade .", "rel": "Component-Whole", "ent1": "grenade", "ent2": "grenade"}
+{"text": "The Jackson County court case files from that date have been lost, and the entries in the Judgement Book are ambiguous.", "rel": "Entity-Origin", "ent1": "date", "ent2": "date"}
+{"text": "Options that are core components of the plan include: a benefit period, an elimination period, a maximum benefit percentage of salary and a maximum weekly benefit .", "rel": "Component-Whole", "ent1": "plan", "ent2": "plan"}
+{"text": "Just as the terrorists took advantage of our relatively open and porous educational, aviation, and immigration systems to plan and execute their attacks, they also likely took advantage of our financial systems.", "rel": "Instrument-Agency", "ent1": "terrorists", "ent2": "terrorists"}
+{"text": "In January 2003 a symposium was held to discuss the current state of progress and future challenges.", "rel": "Message-Topic", "ent1": "current state", "ent2": "current state"}
+{"text": "The handpiece contains a primary coil and the sleeve encloses a secondary coil, which are inductively coupled together so that electromagnetic energy can be transferred between them.", "rel": "Component-Whole", "ent1": "handpiece", "ent2": "handpiece"}
+{"text": "Later, the soil sample was sealed in a container and the Martian atmosphere was replaced by inert helium gas.", "rel": "Entity-Destination", "ent1": "container", "ent2": "container"}
+{"text": "The Washington sniper is put to death .", "rel": "Other", "ent1": "death", "ent2": "death"}
+{"text": "Brief guides have been prepared on maps , school histories, electoral rolls, land tenure, government buildings, railways and hotel licensing.", "rel": "Message-Topic", "ent1": "maps", "ent2": "maps"}
+{"text": "Redwood Canyon is home to the world's largest grove of sequoias .", "rel": "Member-Collection", "ent1": "grove", "ent2": "grove"}
+{"text": "After the Marian reforms the Legion was notionally a unit of heavy infantrymen armed with just sword and pilum, but even so it was normally fielded with attached auxiliary skirmishers and missile troops, and incorporated a small cavalry unit.", "rel": "Member-Collection", "ent1": "unit", "ent2": "unit"}
+{"text": "He has simply taken the hook of the fishes mouth because the point of the hook did not stick out.", "rel": "Component-Whole", "ent1": "fishes", "ent2": "fishes"}
+{"text": "When the great union of the popular masses of France opposed the great union of the adherents of the monarchy and the victory of 'political reform' had been attained, many countries followed the French example and undertook all sorts of 'political reforms'.", "rel": "Other", "ent1": "masses", "ent2": "masses"}
+{"text": "The infamous teacher has been dragged into another child abuse case .", "rel": "Other", "ent1": "case", "ent2": "case"}
+{"text": "The JFK baggage system malfunction caused delays for some flights and caused some passengers to simply travel without their things.", "rel": "Cause-Effect", "ent1": "delays", "ent2": "delays"}
+{"text": "The principal has put computers into our classroom .", "rel": "Entity-Destination", "ent1": "classroom", "ent2": "classroom"}
+{"text": "Earl turned and leaned on the railing of the balcony .", "rel": "Component-Whole", "ent1": "balcony", "ent2": "balcony"}
+{"text": "The picture below shows a view chapel and west range of the inner courtyard of the castle .", "rel": "Component-Whole", "ent1": "castle", "ent2": "castle"}
+{"text": "The toy was inside a box and had been left on the minivan.", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "A significant portion of head and neck cancers , anal cancers, and cancer of the larynx are caused by the human papillomavirus .", "rel": "Cause-Effect", "ent1": "cancers", "ent2": "cancers"}
+{"text": "The controller regulates the superheat using a double loop system .", "rel": "Component-Whole", "ent1": "controller", "ent2": "controller"}
+{"text": "The Bush administration hid the true fiscal picture with a plethora of accounting gimmicks .", "rel": "Instrument-Agency", "ent1": "administration", "ent2": "administration"}
+{"text": "Each warrior carries a sime, or spatulate-shaped sword, in a leather sheath, and bears a bow and quiver of poisoned arrows .", "rel": "Content-Container", "ent1": "quiver", "ent2": "quiver"}
+{"text": "The software lets the teleworker closely associate his IP soft phone with other public switched telephone network (PSTN) connections.", "rel": "Instrument-Agency", "ent1": "teleworker", "ent2": "teleworker"}
+{"text": "The approximation is derived from an assumption that A is constant along the radial positions in the tube.", "rel": "Entity-Origin", "ent1": "assumption", "ent2": "assumption"}
+{"text": "Just a moment ago you were pronouncing such astonishingly correct opinions about our town , and now you're so silent.", "rel": "Message-Topic", "ent1": "town", "ent2": "town"}
+{"text": "It was a jigsaw puzzle game of several spilled pecans in a dish .", "rel": "Content-Container", "ent1": "dish", "ent2": "dish"}
+{"text": "The book by the death-march survivor constitutes the basis of the case.", "rel": "Product-Producer", "ent1": "survivor", "ent2": "survivor"}
+{"text": "He was surprised to discover that the suitcase was full of black-and-white photographs .", "rel": "Content-Container", "ent1": "suitcase", "ent2": "suitcase"}
+{"text": "Baur and Adams found on Albemarle a rookery of white herons .", "rel": "Member-Collection", "ent1": "rookery", "ent2": "rookery"}
+{"text": "In the present study, we adapted a battery of tests used to assess age-related cognitive decline in English speakers for use with older Spanish speakers.", "rel": "Member-Collection", "ent1": "battery", "ent2": "battery"}
+{"text": "Coast guard participates in Veterans Day observance ceremony in Juneau.", "rel": "Other", "ent1": "ceremony", "ent2": "ceremony"}
+{"text": "John Wing used it every time he put a ring into a bore to ensure he wouldn't get a false reading.", "rel": "Entity-Destination", "ent1": "bore", "ent2": "bore"}
+{"text": "Well I know quite a few people who get dissatisfaction from laughing at retards.", "rel": "Cause-Effect", "ent1": "dissatisfaction", "ent2": "dissatisfaction"}
+{"text": " Radiology is the branch or specialty of medicine that deals with the study and application of imaging technology .", "rel": "Other", "ent1": "imaging technology", "ent2": "imaging technology"}
+{"text": " Investments have gone into the light rail .", "rel": "Entity-Destination", "ent1": "light rail", "ent2": "light rail"}
+{"text": "Each student is a participant in a web conferencing session .", "rel": "Other", "ent1": "session", "ent2": "session"}
+{"text": "His work presented a new, spontaneous, unpolished style, which appealed to a subculture of folksingers , hipsters, mystics, and writers of 50s Cold War America where conformity and witchhunts sought to impose straitjacket freedom.", "rel": "Member-Collection", "ent1": "subculture", "ent2": "subculture"}
+{"text": "An old lady was standing at the railing of the cruise ship holding her hat on tight, so that it would not blow off in the wind.", "rel": "Component-Whole", "ent1": "ship", "ent2": "ship"}
+{"text": "Wes Anderson has made one classic comedy(The Royal Tenenbaums) fueled by the tension from the characters' longings to burst out of the trappings in which they are framed.", "rel": "Cause-Effect", "ent1": "tension", "ent2": "tension"}
+{"text": "Her son , Trent, remade for his father the dish cooked at the school that day.", "rel": "Product-Producer", "ent1": "son", "ent2": "son"}
+{"text": "The disk and controller were in a box seven feet high and about 20 feet long and 3 feet wide.", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "The common cold and the flu are caused by different viruses , with symptoms of the flu presenting more quickly and with more severity than those of a cold.", "rel": "Cause-Effect", "ent1": "cold", "ent2": "cold"}
+{"text": "The wastewater treatment plant processes the influent using a ultra-violet light system to kill the bacteria prior to outflow.", "rel": "Component-Whole", "ent1": "plant", "ent2": "plant"}
+{"text": "This painting depicts a swooping falcon with its claws bared pursuing a host of nine sparrows in frightened flight, the two forming an energetic arc enriched by the lifted right wing of the falcon and the panicked sparrows dispersed in all directions.", "rel": "Member-Collection", "ent1": "host", "ent2": "host"}
+{"text": "The damages caused by the fires that immediately broke out and raged for three days, were by far worse than those caused by the earthquake itself.", "rel": "Cause-Effect", "ent1": "damages", "ent2": "damages"}
+{"text": "We leave the bail of the reel open and place your the rod in a double mounted set up as shown on the facing page.", "rel": "Component-Whole", "ent1": "reel", "ent2": "reel"}
+{"text": "More than thirty people lost their lives in June, in the disaster caused by torrential rains in Hiroshima Prefecture, and in September more than thirty people lost their lives in the damage caused by the typhoon that swept through various regions, centering on Kumamoto Prefecture.", "rel": "Cause-Effect", "ent1": "disaster", "ent2": "disaster"}
+{"text": "The greatest exponent of monounsaturated fat is olive oil , and it is a prime component of the Mediterranean Diet.", "rel": "Entity-Origin", "ent1": "olive", "ent2": "olive"}
+{"text": "The navy searched the vessel with the crew on board.", "rel": "Other", "ent1": "crew", "ent2": "crew"}
+{"text": "And look, there goes a good stand of golden plovers , right clean away from the foreshores.", "rel": "Member-Collection", "ent1": "stand", "ent2": "stand"}
+{"text": "This paralyzed him so much that when trying to lay back on the bed, he fell on his back and hit his head on the bed post .", "rel": "Component-Whole", "ent1": "bed", "ent2": "bed"}
+{"text": "Winners of four straight games, the side has constructed the program's best start since 1979-80 and the third-best opening in school history.", "rel": "Other", "ent1": "start", "ent2": "start"}
+{"text": "The model accurately predicted the snout lengths of a number of pipefishes .", "rel": "Component-Whole", "ent1": "pipefishes", "ent2": "pipefishes"}
+{"text": "The firing of transition T_continuous_call represents the arrival of a handoff call from neighbour cells .", "rel": "Entity-Origin", "ent1": "cells", "ent2": "cells"}
+{"text": "The present invention relates to a method for producing battery electrodes, electrodes produced by this method , and batteries containing such electrodes.", "rel": "Other", "ent1": "method", "ent2": "method"}
+{"text": "Prevx has added functionality into its new tool .", "rel": "Entity-Destination", "ent1": "tool", "ent2": "tool"}
+{"text": "Man gets life sentence in kidnap, ransom case of woman he kept in makeshift casket .", "rel": "Other", "ent1": "casket", "ent2": "casket"}
+{"text": "This technique has been clearly explained in a previous issue of this magazine.", "rel": "Message-Topic", "ent1": "technique", "ent2": "technique"}
+{"text": "We now live in a country in which the president wields the power to send the entire nation into war on his own initiative.", "rel": "Instrument-Agency", "ent1": "president", "ent2": "president"}
+{"text": "The wind pried with its stiff fingers at the very foundations.", "rel": "Component-Whole", "ent1": "wind", "ent2": "wind"}
+{"text": "The villain sweeps the ceiling with a machine-gun , perforating Milla Jovovich, who is hiding in the ceiling duct.", "rel": "Instrument-Agency", "ent1": "villain", "ent2": "villain"}
+{"text": "The citizenship and connection to Britain and Italy is shown in parentheses .", "rel": "Other", "ent1": "parentheses", "ent2": "parentheses"}
+{"text": "The ship left from the port of Bremen with 434 passengers.", "rel": "Entity-Origin", "ent1": "port", "ent2": "port"}
+{"text": "The incoming mails are sent to queue servers .", "rel": "Entity-Destination", "ent1": "servers", "ent2": "servers"}
+{"text": "Enigmatic discoveries of dark matter a few decades ago and of dark energy a few years ago have thrown physics into turmoil .", "rel": "Other", "ent1": "turmoil", "ent2": "turmoil"}
+{"text": "Scientists have injected human cells into lab animals .", "rel": "Entity-Destination", "ent1": "animals", "ent2": "animals"}
+{"text": "Initially the user calibrates the microscope with a fluorescence lifetime standard positioned at the sample plane.", "rel": "Instrument-Agency", "ent1": "user", "ent2": "user"}
+{"text": "The Mother Superior is a member of the corporation .", "rel": "Member-Collection", "ent1": "corporation", "ent2": "corporation"}
+{"text": "The project comprises several phases including 19 miles of highway expansion.", "rel": "Component-Whole", "ent1": "project", "ent2": "project"}
+{"text": "Symptoms vary according to the degree of inflammation caused by the bacteria , ranging from slightly loose stools to bloody diarrhea, abdominal pain, and fever.", "rel": "Cause-Effect", "ent1": "inflammation", "ent2": "inflammation"}
+{"text": "The origin of the schwannoma is from the normally-existing schwann cells in the tentorium.", "rel": "Entity-Origin", "ent1": "cells", "ent2": "cells"}
+{"text": "Anderson is regarded as one of the most able and articulate members of Congress, but he has a voting record that is anathema to most other congressmen in his party .", "rel": "Member-Collection", "ent1": "party", "ent2": "party"}
+{"text": "Smith passed on his advice to the Naples High baseball team .", "rel": "Entity-Destination", "ent1": "baseball team", "ent2": "baseball team"}
+{"text": "Alexandros caught blade by the haft as it fell.", "rel": "Component-Whole", "ent1": "haft", "ent2": "haft"}
+{"text": "They then placed the fish in a wooden barrel filled with water and fired at the fish with a 9 mm pistol.", "rel": "Entity-Destination", "ent1": "barrel", "ent2": "barrel"}
+{"text": "The unions are moving into politics .", "rel": "Other", "ent1": "politics", "ent2": "politics"}
+{"text": "The customers are bringing snacks to the movie theaters .", "rel": "Entity-Destination", "ent1": "movie theaters", "ent2": "movie theaters"}
+{"text": " Bar builds guillotine out of beer cans to protest Atlantic Yards.", "rel": "Instrument-Agency", "ent1": "Bar", "ent2": "Bar"}
+{"text": "He's stuffed pork into defense and homeland security.", "rel": "Other", "ent1": "defense", "ent2": "defense"}
+{"text": " Libertarianism as discussed in this essay is a theory of political justice.", "rel": "Message-Topic", "ent1": "Libertarianism", "ent2": "Libertarianism"}
+{"text": "Like Shibnath, our protagonist too takes part in the freedom movement of India, faces the pangs of foreign rule, and is inspired by Sarojini Naidu and other notable figures like veteran communist leader Ravi Narayan Reddy.", "rel": "Other", "ent1": "movement", "ent2": "movement"}
+{"text": "This splendid little book traces the history of the company from 3000 BC to the present day.", "rel": "Message-Topic", "ent1": "history", "ent2": "history"}
+{"text": "The sample was contained in a 5-mm glass tube surrounded by oscillator and receiver coils at right angles to one another.", "rel": "Content-Container", "ent1": "glass tube", "ent2": "glass tube"}
+{"text": "Latest figures show unemployment in Wales is rising again despite falls in the previous two months.", "rel": "Other", "ent1": "unemployment", "ent2": "unemployment"}
+{"text": " Fruit is held in a chute or on pack or rotary tables prior to being loaded into a carton.", "rel": "Content-Container", "ent1": "chute", "ent2": "chute"}
+{"text": "The school convinced jurors with plans for ground-breaking research programs, such as the Karlsruhe School of Optics and Photonics.", "rel": "Product-Producer", "ent1": "school", "ent2": "school"}
+{"text": "Swine Flu - Popular name for the illness caused by the H1N1 virus .", "rel": "Cause-Effect", "ent1": "illness", "ent2": "illness"}
+{"text": "This crane has a telescopic boom that is mounted on a movable platform.", "rel": "Component-Whole", "ent1": "crane", "ent2": "crane"}
+{"text": "This panel once decorated the cover of a gospel book (now in the Hessisches Landesmuseum, Darmstadt) written and illuminated by a scribe named Liuthard.", "rel": "Product-Producer", "ent1": "scribe", "ent2": "scribe"}
+{"text": "The tailpiece anchors the strings to the lower bout of the violin by means of the tailgut.", "rel": "Component-Whole", "ent1": "violin", "ent2": "violin"}
+{"text": "Deuterium fueling pellets have been injected into DIII-D plasmas from five different locations.", "rel": "Entity-Destination", "ent1": "plasmas", "ent2": "plasmas"}
+{"text": "The technitians discussed how to clean the throttle cable on a gas scooter.", "rel": "Component-Whole", "ent1": "throttle", "ent2": "throttle"}
+{"text": "The tunnel complex now hosts a series of galleries detailing the occupation history .", "rel": "Message-Topic", "ent1": "occupation history", "ent2": "occupation history"}
+{"text": "Everyone, including the chef, is a 'soldier first' and 'tradesman second', and troops find themselves eating a meal cooked by the same chef who supported them out on patrol or fired mortars in the same mission.", "rel": "Product-Producer", "ent1": "chef", "ent2": "chef"}
+{"text": "The first clause states that the retiree is entitled to an annuity.", "rel": "Message-Topic", "ent1": "retiree", "ent2": "retiree"}
+{"text": "The police told an open government surveyor it \"doesn't give out the records\".", "rel": "Other", "ent1": "surveyor", "ent2": "surveyor"}
+{"text": "Each club member flew his flock or kit of twenty pigeons , to be judged for twenty minutes.", "rel": "Member-Collection", "ent1": "kit", "ent2": "kit"}
+{"text": "The Baha'u'llah religion has liberated human minds by a prohibition within His Faith against any caste with ecclesiastical prerogatives.", "rel": "Product-Producer", "ent1": "religion", "ent2": "religion"}
+{"text": "This two-day tutorial introduced astronomers to modern methods in nonparametric statistics.", "rel": "Message-Topic", "ent1": "methods", "ent2": "methods"}
+{"text": "The resort comprises a central hotel and free-standing villas in the forest.", "rel": "Component-Whole", "ent1": "resort", "ent2": "resort"}
+{"text": "That car had a number of GPS sensors and lasers, a camera , and other equipment to help it make its way through the course.", "rel": "Component-Whole", "ent1": "car", "ent2": "car"}
+{"text": "We inserted marks into the heap profiling output programmatically.", "rel": "Entity-Destination", "ent1": "output", "ent2": "output"}
+{"text": "One drift of the sheep was marked with a red cross, and the other drift with a black patch.", "rel": "Member-Collection", "ent1": "drift", "ent2": "drift"}
+{"text": "Frequently the author departs from an explanation of what has transpired and the facts and forces pertaining to the action.", "rel": "Other", "ent1": "explanation", "ent2": "explanation"}
+{"text": "The court sent the drug addict into hibernation .", "rel": "Other", "ent1": "hibernation", "ent2": "hibernation"}
+{"text": "The backside of the haft of the Gebel el Arak knife is decorated with the images of a number of of a number of animals presided over by an old man in Mesopotamian dress.", "rel": "Component-Whole", "ent1": "knife", "ent2": "knife"}
+{"text": "The supreme court has applied the protections of this amendment to the states through the Due Process Clause of the Fourteenth Amendment.", "rel": "Other", "ent1": "states", "ent2": "states"}
+{"text": "Since the earliest period of its history, the church made use of messengers , called \"cursores,\" in order to communicate with the entire world.", "rel": "Other", "ent1": "messengers", "ent2": "messengers"}
+{"text": " Blood arrives from the animal via suitable tubing and enters the pump.", "rel": "Entity-Origin", "ent1": "animal", "ent2": "animal"}
+{"text": "The stapler comprises a stapling head (2) and an anvil (3).", "rel": "Component-Whole", "ent1": "stapler", "ent2": "stapler"}
+{"text": "In recent years there have been many advances in the use of opioids for cancer pain .", "rel": "Other", "ent1": "pain", "ent2": "pain"}
+{"text": "The purpose of the focus groups was to determine user needs , wants, and concerns early and progressively throughout the development of the prototype.", "rel": "Other", "ent1": "needs", "ent2": "needs"}
+{"text": "The joey is blind at birth, and must instinctively ascend their mother 's belly and crawl into the nurturing pouch.", "rel": "Component-Whole", "ent1": "mother", "ent2": "mother"}
+{"text": "In this section are horses born in Tori stud that have made Tori breed famous and maintained that fame.", "rel": "Other", "ent1": "stud", "ent2": "stud"}
+{"text": "Grint shows he's becoming a delightful comic actor with a highly flexible voice .", "rel": "Other", "ent1": "voice", "ent2": "voice"}
+{"text": "My last post has driven some great discussion around what an open standard means.", "rel": "Message-Topic", "ent1": "open standard", "ent2": "open standard"}
+{"text": "We put the files into a date-based directory like YY/MM/DD.", "rel": "Entity-Destination", "ent1": "directory", "ent2": "directory"}
+{"text": " Astrophysicists have discovered a new explanation for the early composition of our solar system.", "rel": "Product-Producer", "ent1": "Astrophysicists", "ent2": "Astrophysicists"}
+{"text": "Too often, students were misplaced into alternative schools .", "rel": "Entity-Destination", "ent1": "schools", "ent2": "schools"}
+{"text": " Discussion ensued from the Florida contingent on the fact that very stringent landowner protection laws in Florida make it imperative that the highest supportable appraised vallue be offered first.", "rel": "Cause-Effect", "ent1": "Discussion", "ent2": "Discussion"}
+{"text": "He stirred the oil, garlic and cumin seeds together in a dish large enough to hold the sardines in a single layer.", "rel": "Other", "ent1": "sardines", "ent2": "sardines"}
+{"text": "This document is issued from 28 locations across the country and 160 Indian missions abroad.", "rel": "Product-Producer", "ent1": "locations", "ent2": "locations"}
+{"text": "The smallest star was completely inside the arm of the blue cross .", "rel": "Component-Whole", "ent1": "cross", "ent2": "cross"}
+{"text": "And after waiting two days, I finally decide to send an email to inquire about my car reservation and I explained my trouble.", "rel": "Message-Topic", "ent1": "reservation", "ent2": "reservation"}
+{"text": "The snowstorm caused a major catastrophe on the West Virginia Turnpike.", "rel": "Cause-Effect", "ent1": "catastrophe", "ent2": "catastrophe"}
+{"text": "The festival involved two practical competitions and a lecture.", "rel": "Component-Whole", "ent1": "festival", "ent2": "festival"}
+{"text": "A Boy Scout in North Carolina found a purse with money in it.", "rel": "Content-Container", "ent1": "purse", "ent2": "purse"}
+{"text": "The term originates from an article published 14 February, 1807 by journalist William Cobbett in the polemical Weekly Political Register.", "rel": "Entity-Origin", "ent1": "article", "ent2": "article"}
+{"text": "Sometimes their way led them under the shade of an overhanging bank or through the thin obscurity of a clump of leafless trees .", "rel": "Member-Collection", "ent1": "clump", "ent2": "clump"}
+{"text": "It's coming along really well; I've got a base version with diffing in it released in less than a couple of weeks.", "rel": "Component-Whole", "ent1": "version", "ent2": "version"}
+{"text": "Staphylococcal food poisoning is caused by eating food contaminated with Staphylococcus aureus.", "rel": "Cause-Effect", "ent1": "food poisoning", "ent2": "food poisoning"}
+{"text": "The remaining articles run the gamut of sociological research .", "rel": "Message-Topic", "ent1": "sociological research", "ent2": "sociological research"}
+{"text": "In general, I am not in favour of the television journalist, Mr Jeremy Paxman, a gentleman who reads the news with the impatience of a man astride a bike of wasps , but I must confess I have been warming to him in recent weeks.", "rel": "Member-Collection", "ent1": "bike", "ent2": "bike"}
+{"text": "By charging odd amounts like 49 or 99 cents, the cashier very probably opened the till .", "rel": "Other", "ent1": "till", "ent2": "till"}
+{"text": "The inquiry was confined to investigating marine safety issues .", "rel": "Message-Topic", "ent1": "safety issues", "ent2": "safety issues"}
+{"text": "The outsiders are moving into the pole .", "rel": "Entity-Destination", "ent1": "pole", "ent2": "pole"}
+{"text": "The commercial bees are spreading parasites to their wild cousins .", "rel": "Entity-Destination", "ent1": "cousins", "ent2": "cousins"}
+{"text": " Cats , on the other hand, retract their claws when they walk or run.", "rel": "Component-Whole", "ent1": "Cats", "ent2": "Cats"}
+{"text": "The newly inaugurated president has delivered speeches to the public .", "rel": "Entity-Destination", "ent1": "public", "ent2": "public"}
+{"text": "The reaction from the international press , which I am sure you here in Tokyo have noticed, has been very wide and detailed.", "rel": "Cause-Effect", "ent1": "reaction", "ent2": "reaction"}
+{"text": "The room includes a queen bed, shower and tub and sitting room with sofa bed.", "rel": "Component-Whole", "ent1": "room", "ent2": "room"}
+{"text": "After facing the hopelessness of the future, the poet sank into despair .", "rel": "Other", "ent1": "despair", "ent2": "despair"}
+{"text": "Chris Caisley remains the head of the team and sources were keen to pinpoint his previous experience as chairman of the Bradford Bulls rugby league club.", "rel": "Member-Collection", "ent1": "team", "ent2": "team"}
+{"text": "A reservation newspaper captured the mood with a headline : \"Wilma Mankiller, Cecelia Babykiller.\"", "rel": "Component-Whole", "ent1": "newspaper", "ent2": "newspaper"}
+{"text": "The strand was devoted to music theatre and film music and featured interviews with songwriters, composers, and orchestrators.", "rel": "Message-Topic", "ent1": "theatre", "ent2": "theatre"}
+{"text": "The sink was in the desk and I had to wedge myself into the bathroom.", "rel": "Component-Whole", "ent1": "desk", "ent2": "desk"}
+{"text": "Viral gastroenteritis is a highly contagious infection of the intestines caused by one of several viruses .", "rel": "Cause-Effect", "ent1": "infection", "ent2": "infection"}
+{"text": "Luckily, the timer of the bomb had malfunctioned and it had not caused further damage.", "rel": "Component-Whole", "ent1": "bomb", "ent2": "bomb"}
+{"text": "My itinerary was in a suitcase , among stacks of teaching materials so I asked the Delta ticket agent to look up my outgoing flight number.", "rel": "Content-Container", "ent1": "suitcase", "ent2": "suitcase"}
+{"text": " Stings or bites are caused by midges, horseflies, bees, wasps , ants, some spiders, fleas, lice, etc.", "rel": "Product-Producer", "ent1": "wasps", "ent2": "wasps"}
+{"text": "Four sets of wax glands , situated inside the last four ventral segments of the abdomen, produce wax for comb construction.", "rel": "Product-Producer", "ent1": "glands", "ent2": "glands"}
+{"text": "My cousins have some fun sliding down the steps in a laundry basket .", "rel": "Other", "ent1": "basket", "ent2": "basket"}
+{"text": "In the spring of 1950, the FCC issued a warning to the Hollywood motion picture studios against withholding product and talent from broadcast television , in what motion picture exhibitors denounced as \"a bullying statement\".", "rel": "Other", "ent1": "television", "ent2": "television"}
+{"text": "For safety reasons, he loads and unloads his bike from the curbside of the bus .", "rel": "Component-Whole", "ent1": "bus", "ent2": "bus"}
+{"text": "The researchers took advantage of a natural experiment to compare school performance with varying degrees of competition.", "rel": "Instrument-Agency", "ent1": "researchers", "ent2": "researchers"}
+{"text": "Regulations limit the use of RFID technology for human tracking .", "rel": "Other", "ent1": "tracking", "ent2": "tracking"}
+{"text": "Most of the text was extracted verbatim from primary sources , which entails the presentation of far more information than is customary on the opera stage.", "rel": "Entity-Origin", "ent1": "primary sources", "ent2": "primary sources"}
+{"text": "The hamper was full of high-quality sweet biscuits , chocolates, cakes and puddings, shortbread, pickles, teas and wine.", "rel": "Content-Container", "ent1": "hamper", "ent2": "hamper"}
+{"text": "Shortly, after the injection, the melatonin was released into the bloodstream .", "rel": "Entity-Destination", "ent1": "bloodstream", "ent2": "bloodstream"}
+{"text": "The apartment comprises of two bedrooms with fitted wardrobes, two bathrooms with tub, a spacious kitchen and lounge/dining room...", "rel": "Component-Whole", "ent1": "apartment", "ent2": "apartment"}
+{"text": "The driver was ejected from his small car .", "rel": "Entity-Origin", "ent1": "car", "ent2": "car"}
+{"text": "The Billboard charts tabulate the relative weekly popularity of songs or albums in the United States.", "rel": "Message-Topic", "ent1": "popularity", "ent2": "popularity"}
+{"text": "Drawing my bow across the string sometimes results in the stick of the bow bouncing/vibrating up and down.", "rel": "Component-Whole", "ent1": "bow", "ent2": "bow"}
+{"text": "A Chinese firms poured millions into the country .", "rel": "Entity-Destination", "ent1": "country", "ent2": "country"}
+{"text": "One marine mammal breaks open shellfish by hitting the shellfish with a stone .", "rel": "Instrument-Agency", "ent1": "mammal", "ent2": "mammal"}
+{"text": "The recession caused by the stock bubble was relatively mild, but so was the recovery.", "rel": "Cause-Effect", "ent1": "recession", "ent2": "recession"}
+{"text": "It really underscores everything in the pro-life movement, that abortion is part of a very sad story for women.", "rel": "Other", "ent1": "story", "ent2": "story"}
+{"text": "The chimps first picked some stems from the Marantaceae plant and plucked off the leaves in order to make their rods .", "rel": "Product-Producer", "ent1": "chimps", "ent2": "chimps"}
+{"text": "One of these papers which was published in the journal Climate Research turned out to be so badly flawed that the scandal resulted in the resignation of the editor-in-chief.", "rel": "Cause-Effect", "ent1": "resignation", "ent2": "resignation"}
+{"text": "The coalition sprang up after the Tories released an economic statement lambasted by the opposition parties .", "rel": "Other", "ent1": "parties", "ent2": "parties"}
+{"text": "I found a lover with a slow hand .", "rel": "Component-Whole", "ent1": "lover", "ent2": "lover"}
+{"text": "The interrogation covers von Neurath's activities during the years 1932 to 1938 and Hitler's policy of aggression during the late 1930s.", "rel": "Other", "ent1": "activities", "ent2": "activities"}
+{"text": " Cardiovascular disease is one of the leading causes of morbidity and mortality in the UK, as well as in the developed and the developing world.", "rel": "Cause-Effect", "ent1": "morbidity", "ent2": "morbidity"}
+{"text": " Preeclampsia is still one of the leading causes of maternal mortality .", "rel": "Cause-Effect", "ent1": "mortality", "ent2": "mortality"}
+{"text": "A diffusion driven desalination process is driven by water vapor saturating low humidity air.", "rel": "Instrument-Agency", "ent1": "process", "ent2": "process"}
+{"text": "The media then creates a self fulfilling prophesy with constant reports of doom and gloom and individuals also pull their money out of the targeted bank.", "rel": "Product-Producer", "ent1": "media", "ent2": "media"}
+{"text": "Judging by the decorations in the shop windows , it is Christmas time.", "rel": "Component-Whole", "ent1": "shop", "ent2": "shop"}
+{"text": "Self-educated Malawi Boy builds windmills out of junk .", "rel": "Instrument-Agency", "ent1": "Boy", "ent2": "Boy"}
+{"text": "The first bank in Loudoun County, the short-lived Loudoun Company, held meetings in the cellar of this dwelling beginning around 1815, hence the name Bank House.", "rel": "Component-Whole", "ent1": "dwelling", "ent2": "dwelling"}
+{"text": "The arrest completes a dismal past five weeks for the 25-year-old.", "rel": "Other", "ent1": "weeks", "ent2": "weeks"}
+{"text": "The man is draining the pool water into the sanitary sewer .", "rel": "Entity-Destination", "ent1": "sanitary sewer", "ent2": "sanitary sewer"}
+{"text": "It is marked by a sign indicating the length of the pause.", "rel": "Other", "ent1": "length", "ent2": "length"}
+{"text": "In reality, acne is caused by bacteria and oil on the skin.", "rel": "Cause-Effect", "ent1": "acne", "ent2": "acne"}
+{"text": "The walk starts at an entry to Mealmore Forest.", "rel": "Other", "ent1": "entry", "ent2": "entry"}
+{"text": "In the interview Josie speaks about her childhood and family in Dudley.", "rel": "Message-Topic", "ent1": "childhood", "ent2": "childhood"}
+{"text": "It is the last auto plant operating in California and Toyota's only plant represented by the United Automobile Workers.", "rel": "Product-Producer", "ent1": "plant", "ent2": "plant"}
+{"text": "The smile runs away from the kid's face .", "rel": "Other", "ent1": "face", "ent2": "face"}
+{"text": "The candidates then answered questions from other MPs on their proposals for reform of Parliament.", "rel": "Message-Topic", "ent1": "proposals", "ent2": "proposals"}
+{"text": "The scientific, yet understandable reasons of why the L*Bo Aid is so effective in eliminating and preventing elbow pain due to epicondylitis commonly referred to as \"Tennis Elbow\" and tendinitis .", "rel": "Cause-Effect", "ent1": "elbow pain", "ent2": "elbow pain"}
+{"text": "A special meeting of the shareholders of Lydia Diamond was held on December 23rd, 2009 and the Sale was approved by the shareholders.", "rel": "Other", "ent1": "shareholders", "ent2": "shareholders"}
+{"text": "Excessive anxiety, worry or fear are among the causes of heart attack .", "rel": "Cause-Effect", "ent1": "heart attack", "ent2": "heart attack"}
+{"text": "The legend was derived from a much older publication .", "rel": "Entity-Origin", "ent1": "publication", "ent2": "publication"}
+{"text": "A type T thermocouple controlled air temperature at the inlet of the dryer .", "rel": "Component-Whole", "ent1": "dryer", "ent2": "dryer"}
+{"text": "Everything's been done, all interventions applied and everyone has worked hard at motivating that cohort of underperforming students .", "rel": "Member-Collection", "ent1": "cohort", "ent2": "cohort"}
+{"text": "The activities are divided into three programmes : The Children and Youth Programme, the Adult Programme and the Senior Citizens Programme.", "rel": "Component-Whole", "ent1": "programmes", "ent2": "programmes"}
+{"text": "The plot centers around a young girl who must decide between helping her community that is being falsely accused of witchcraft or staying silent to protect her family.", "rel": "Message-Topic", "ent1": "girl", "ent2": "girl"}
+{"text": "It is exciting to see the windsurfers conquer the water body with their impressive control and skills.", "rel": "Other", "ent1": "control", "ent2": "control"}
+{"text": "In view of the terrible destruction that was caused by the flood waves , we have to fear that a number of Germans, clearly in the three-digit numbers, will be among the dead.", "rel": "Cause-Effect", "ent1": "destruction", "ent2": "destruction"}
+{"text": "A gam of whales migrates to breeding lagoons every season.", "rel": "Member-Collection", "ent1": "gam", "ent2": "gam"}
+{"text": "That looked like an equally impenetrable city jungle of wagons , horses, small tents, and humanity.", "rel": "Member-Collection", "ent1": "jungle", "ent2": "jungle"}
+{"text": "Obama's economic policies are turning into a global disaster .", "rel": "Cause-Effect", "ent1": "disaster", "ent2": "disaster"}
+{"text": "The church , is a stunning onion-domed, golden-filigreed, jewel of a building built (1903-1912) by the Russian aristocracy .", "rel": "Product-Producer", "ent1": "aristocracy", "ent2": "aristocracy"}
+{"text": "Pearson identified the Bittangabee Bay ruins as having been built as a store house by the Imlay brothers, early European inhabitants .", "rel": "Product-Producer", "ent1": "inhabitants", "ent2": "inhabitants"}
+{"text": "A famous singer was sent to prison .", "rel": "Entity-Destination", "ent1": "prison", "ent2": "prison"}
+{"text": "It is a dark song reflecting on potential love with deep electronic tones and soft beats.", "rel": "Message-Topic", "ent1": "love", "ent2": "love"}
+{"text": "When the synaptic input to the axon was stimulated before eliciting an action potential in the axon, transmitter release from the axon was enhanced.", "rel": "Entity-Origin", "ent1": "axon", "ent2": "axon"}
+{"text": "The victim slipped off the gangway while attempting to close the lid of the tank trailer.", "rel": "Other", "ent1": "tank", "ent2": "tank"}
+{"text": "This water painting has been donated to a local art gallery .", "rel": "Entity-Destination", "ent1": "gallery", "ent2": "gallery"}
+{"text": "The bomb was hidden in a handcart near the Mar Toma Church, also known as Church of St. Thomas, in the city of Mosul.", "rel": "Content-Container", "ent1": "handcart", "ent2": "handcart"}
+{"text": "The USA government handed over these detained foreign citizens to Russian boarder guards .", "rel": "Entity-Destination", "ent1": "boarder guards", "ent2": "boarder guards"}
+{"text": "Infamous criminal's skull was handed over to the authorities .", "rel": "Entity-Destination", "ent1": "authorities", "ent2": "authorities"}
+{"text": "Therefore, a different method is used, involving a condom, some strawberry syrup , and a piece of 1/2\" aluminium plating (not as kinky as it sounds).", "rel": "Entity-Origin", "ent1": "strawberry", "ent2": "strawberry"}
+{"text": "Indeed, a green or black basalt heart scarab was found put inside the body in its place.", "rel": "Content-Container", "ent1": "body", "ent2": "body"}
+{"text": "There were two smiling and waving individuals hanging under the bun in a wicker basket equipped with the big Bunsen burner.", "rel": "Other", "ent1": "basket", "ent2": "basket"}
+{"text": "Our microwave has a turn-able turntable inside and dial-able knobs outside.", "rel": "Component-Whole", "ent1": "microwave", "ent2": "microwave"}
+{"text": "Today, on the way to work, I saw a shrewdness of pink apes being chased by a colony of noctiphobic bats.", "rel": "Member-Collection", "ent1": "shrewdness", "ent2": "shrewdness"}
+{"text": "Cook's discoveries prepared the way for establishment of a new penal colony by the colonial power .", "rel": "Product-Producer", "ent1": "power", "ent2": "power"}
+{"text": "The governments sent scientists to the desert for surveying climate changes.", "rel": "Entity-Destination", "ent1": "desert", "ent2": "desert"}
+{"text": "The author wrote a book , Moneyball, that drove baseball's clubby traditionalists crazy.", "rel": "Product-Producer", "ent1": "author", "ent2": "author"}
+{"text": "The company has assembled five independent food safety experts to serve on its newly formed Food Safety Advisory Council.", "rel": "Other", "ent1": "experts", "ent2": "experts"}
+{"text": "The Aroon indicator system consists of two lines , 'Aroon(up)' and 'Aroon(down)'.", "rel": "Component-Whole", "ent1": "system", "ent2": "system"}
+{"text": "By the end of the work day, the anger was radiating from the city .", "rel": "Cause-Effect", "ent1": "anger", "ent2": "anger"}
+{"text": "The implant is placed into the jaw bone .", "rel": "Entity-Destination", "ent1": "jaw bone", "ent2": "jaw bone"}
+{"text": "Five ancient temples have fallen into disrepair .", "rel": "Other", "ent1": "disrepair", "ent2": "disrepair"}
+{"text": "However, the Barbary macaque grows a big thick coat for the winter, which means they can live outside all year.", "rel": "Component-Whole", "ent1": "macaque", "ent2": "macaque"}
+{"text": "The man has journeyed into deeper level studies with sound masters.", "rel": "Other", "ent1": "studies", "ent2": "studies"}
+{"text": "It is a beautiful sight to watch a bouquet of pheasants fly from their nesting area, straight up into the sky.", "rel": "Member-Collection", "ent1": "bouquet", "ent2": "bouquet"}
+{"text": "Tom Reynold's brought his first barrel of flour from DeTour on a jumper drawn by an ox .", "rel": "Other", "ent1": "ox", "ent2": "ox"}
+{"text": " Implementation of this proposal is being discussed at the state level .", "rel": "Other", "ent1": "level", "ent2": "level"}
+{"text": "The white plastic cup was put inside a large cup and 100 Formosan subterranean termites were released inside the large cup.", "rel": "Entity-Destination", "ent1": "cup", "ent2": "cup"}
+{"text": "There's a new exhibition of works by the quilters of Gee's Bend, Alabama, whose lives have been transformed by worldwide acclaim for their artistry.", "rel": "Product-Producer", "ent1": "quilters", "ent2": "quilters"}
+{"text": " Brickwork is masonry produced by a bricklayer , using bricks and mortar to build up brick structures such as walls.", "rel": "Product-Producer", "ent1": "bricklayer", "ent2": "bricklayer"}
+{"text": "The method uses histologic techniques for processing and thus offers one major advantage.", "rel": "Instrument-Agency", "ent1": "method", "ent2": "method"}
+{"text": "The hands of the clock are stainless steel tubing: the hour hand is 14.5 ft, the minute hand 17.5 ft and the second hand 21 ft long.", "rel": "Component-Whole", "ent1": "clock", "ent2": "clock"}
+{"text": "The size of the scissors used by a beginning stylist for learning to cut the hair is actually determined more by the size of his or her hands.", "rel": "Instrument-Agency", "ent1": "stylist", "ent2": "stylist"}
+{"text": "After wrapping him in a light blanket, they placed the infant in the cradle his father had carved for him.", "rel": "Entity-Destination", "ent1": "cradle", "ent2": "cradle"}
+{"text": "Often the message includes a warning regarding a problem related to related to the recipient's account.", "rel": "Component-Whole", "ent1": "warning", "ent2": "warning"}
+{"text": "We keep the box in a desk drawer and use the removable four-compartment tray to organize cash and valuables.", "rel": "Content-Container", "ent1": "desk drawer", "ent2": "desk drawer"}
+{"text": "The hall has a lift and full access for the disabled.", "rel": "Component-Whole", "ent1": "hall", "ent2": "hall"}
+{"text": "A girl plays her violin on a pogo stick .", "rel": "Other", "ent1": "stick", "ent2": "stick"}
+{"text": "A British prison escapee who taunted police over the internet has established a following of more than 32000 fans on Facebook.", "rel": "Other", "ent1": "following", "ent2": "following"}
+{"text": "Ordinary warts on the hands and feet are caused by viruses , which only affect humans.", "rel": "Cause-Effect", "ent1": "warts", "ent2": "warts"}
+{"text": "Last night, wine was brought to the restaurant .", "rel": "Entity-Destination", "ent1": "restaurant", "ent2": "restaurant"}
+{"text": "The team drafted a great player in 2002 when they chose Julius Peppers second overall.", "rel": "Other", "ent1": "player", "ent2": "player"}
+{"text": "A great ensemble cast of likeable young actors makes this a joy to watch.", "rel": "Member-Collection", "ent1": "cast", "ent2": "cast"}
+{"text": "This picture shows a glass blower in one of Hebron's blown glass factories molding the hot glass paste into the bottom of a vase .", "rel": "Product-Producer", "ent1": "blower", "ent2": "blower"}
+{"text": "My itinerary was in a suitcase , among stacks of teaching materials so I asked the Delta ticket agent to look up my outgoing flight number.", "rel": "Content-Container", "ent1": "suitcase", "ent2": "suitcase"}
+{"text": "Just as we were sitting down to dinner one night, someone brushed the drapes and a cloud of baby grasshoppers erupted over the dining room table and into our dinner.", "rel": "Member-Collection", "ent1": "cloud", "ent2": "cloud"}
+{"text": "The water evaporated from the kettle .", "rel": "Entity-Origin", "ent1": "kettle", "ent2": "kettle"}
+{"text": "Many old products are exported to developing countries .", "rel": "Entity-Destination", "ent1": "countries", "ent2": "countries"}
+{"text": "The scientists used nanotubes to send signals to the nerve cells .", "rel": "Entity-Destination", "ent1": "nerve cells", "ent2": "nerve cells"}
+{"text": "In this case report we describe a young female with BCS, which was the result of a combination of risk factors , including the recently discovered G20210A.", "rel": "Other", "ent1": "factors", "ent2": "factors"}
+{"text": "However, the Barbary macaque grows a big thick coat for the winter, which means they can live outside all year.", "rel": "Component-Whole", "ent1": "macaque", "ent2": "macaque"}
+{"text": "We detect defect sites by chemical modification of the sites with polymers .", "rel": "Other", "ent1": "polymers", "ent2": "polymers"}
+{"text": "They learned that some herbs and flowers planted in the garden help to control pests.", "rel": "Component-Whole", "ent1": "garden", "ent2": "garden"}
+{"text": "A man who fell from a bridge along Interstate 29/35 after running from a minor crash has died.", "rel": "Entity-Origin", "ent1": "bridge", "ent2": "bridge"}
+{"text": "A woman accused of throwing a table leg through the window of her home after her boyfriend refused to buy more beer faces a felony charge.", "rel": "Entity-Origin", "ent1": "table", "ent2": "table"}
+{"text": "The committee is approaching the final decision .", "rel": "Other", "ent1": "decision", "ent2": "decision"}
+{"text": "However, legal experts expressed surprise at the car manufacturer 's stance.", "rel": "Product-Producer", "ent1": "manufacturer", "ent2": "manufacturer"}
+{"text": "The protein products encoded by this class of resistance gene are located within the plant cell cytoplasm.", "rel": "Other", "ent1": "class", "ent2": "class"}
+{"text": "A skulk of thieves gathered for their monthly summit.", "rel": "Member-Collection", "ent1": "skulk", "ent2": "skulk"}
+{"text": "The stem of this tree was completely eaten by termites.", "rel": "Component-Whole", "ent1": "tree", "ent2": "tree"}
+{"text": "Earlier on our trip, where the seawall between two backyards was missing, Jennifer and I spotted a plump of moorhens living in the void.", "rel": "Member-Collection", "ent1": "plump", "ent2": "plump"}
+{"text": "These breakdown products are not only losses of sucrose but also have knock-on effects reducing the final output of processed sugar from the factory .", "rel": "Product-Producer", "ent1": "factory", "ent2": "factory"}
+{"text": "The county fair drew a large crowd of USDA employees .", "rel": "Member-Collection", "ent1": "crowd", "ent2": "crowd"}
+{"text": "The compromise resolved the crisis through a series of secret negotiations involving Republican and Democratic politicians and various interest groups.", "rel": "Cause-Effect", "ent1": "compromise", "ent2": "compromise"}
+{"text": "The patient denies any symptoms associated with this pointed lesion, located on the edge of the helix of the auricle , which has been present since infancy.", "rel": "Component-Whole", "ent1": "auricle", "ent2": "auricle"}
+{"text": "Cox examined the current financial regulatory structure and pointed towards its very immediate potential in a speech before the conference.", "rel": "Message-Topic", "ent1": "structure", "ent2": "structure"}
+{"text": "When the merchant was ready to come home, he had bought a diamond necklace for his first daughter.", "rel": "Other", "ent1": "necklace", "ent2": "necklace"}
+{"text": "The programmes explored Britain's favourite games across a century of childhood.", "rel": "Message-Topic", "ent1": "games", "ent2": "games"}
+{"text": "The list of the 10 Most Beautiful Women posted on the official Web site of the 2009 Australian Open was filled with sleek, thin images .", "rel": "Component-Whole", "ent1": "list", "ent2": "list"}
+{"text": "The team stapled the plastic along the joists with heavy duty staple guns to hold it in place.", "rel": "Instrument-Agency", "ent1": "team", "ent2": "team"}
+{"text": "A huge percentage of the United States government was from a Greek organization along with many presidents being from Greek organizations.", "rel": "Entity-Origin", "ent1": "organization", "ent2": "organization"}
+{"text": "CN Railway labour dispute goes into arbitration .", "rel": "Entity-Destination", "ent1": "arbitration", "ent2": "arbitration"}
+{"text": "This established his reputation as a road builder as other engineers had believed it could not be done.", "rel": "Product-Producer", "ent1": "builder", "ent2": "builder"}
+{"text": "This film documented the first journey of an European orchestra to Iran after 30 years.", "rel": "Message-Topic", "ent1": "journey", "ent2": "journey"}
+{"text": "The precautionary principle insists on certainty that a technology is not harmful before it can be used.", "rel": "Other", "ent1": "certainty", "ent2": "certainty"}
+{"text": "They infiltrated here and there, provoking the Russian military to liberate region after region with bombs and artillery.", "rel": "Instrument-Agency", "ent1": "military", "ent2": "military"}
+{"text": "In tele-operation, a human operator manipulates a control stick to generate a command signal so that a robot performs a specified task.", "rel": "Instrument-Agency", "ent1": "operator", "ent2": "operator"}
+{"text": "The fairy godmother turned a pumpkin into a coach, mice into horses, a rat into a coachman, and lizards into footmen .", "rel": "Product-Producer", "ent1": "godmother", "ent2": "godmother"}
+{"text": "They went to the mall where my wallet was locked in a safe that very few people knew how to open, but they persevered.", "rel": "Content-Container", "ent1": "safe", "ent2": "safe"}
+{"text": "Hepatitis B is a potentially life-threatening liver infection caused by the hepatitis B virus .", "rel": "Cause-Effect", "ent1": "infection", "ent2": "infection"}
+{"text": "The morning session of the symposium comprises contributions from former group members and ends with a reunion lunch for the attendees.", "rel": "Component-Whole", "ent1": "session", "ent2": "session"}
+{"text": "I sent you a suitcase with cash in it so you can fill it up with wine gummies.", "rel": "Content-Container", "ent1": "suitcase", "ent2": "suitcase"}
+{"text": "The draft ministerial declaration developed by the council chairman was untenable and caused the meeting to be still-born.", "rel": "Product-Producer", "ent1": "chairman", "ent2": "chairman"}
+{"text": "In 1880, there was a strong typhoon and an earthquake that lead to the destruction of the instrument.", "rel": "Cause-Effect", "ent1": "destruction", "ent2": "destruction"}
+{"text": "Hedgehogs annoy only their political opposition, while foxes annoy across the political spectrum, in part because the smartest foxes cherry-pick idea fragments from the whole array of hedgehogs .", "rel": "Member-Collection", "ent1": "array", "ent2": "array"}
+{"text": "A tiny Serbian village has put up a statue in honour of its adopted patron - Sylvester Stallone's Rocky.", "rel": "Other", "ent1": "statue", "ent2": "statue"}
+{"text": " Cement mason means a person who finishes all concrete construction, such as floors, walls, ceilings, sidewalks, curbs and gutters.", "rel": "Instrument-Agency", "ent1": "mason", "ent2": "mason"}
+{"text": "This means that current flowed out of the pin of the microcontroller .", "rel": "Component-Whole", "ent1": "microcontroller", "ent2": "microcontroller"}
+{"text": "The corpses were then placed in cotton cloth wrappings and put inside of a wooden case that was then put inside of another case that was decorated with details of their life and a mask of their face.", "rel": "Entity-Destination", "ent1": "case", "ent2": "case"}
+{"text": "Many depression sufferers and their physicians revealed that insomnia was caused by depression .", "rel": "Cause-Effect", "ent1": "insomnia", "ent2": "insomnia"}
+{"text": "We poured the milk into the pumpkin mixture .", "rel": "Entity-Destination", "ent1": "pumpkin mixture", "ent2": "pumpkin mixture"}
+{"text": "The high humidity caused by the rainfall damaged the seed of PU already mature while the good soil moisture allowed the seed of SO, TO and OO to fill better.", "rel": "Cause-Effect", "ent1": "high humidity", "ent2": "high humidity"}
+{"text": " Fish swim in a shoal , but they fall one by one.", "rel": "Member-Collection", "ent1": "shoal", "ent2": "shoal"}
+{"text": "The best kept secret for avoiding abdominal weight gain due to stress is the use of adaptogens.", "rel": "Cause-Effect", "ent1": "weight gain", "ent2": "weight gain"}
+{"text": "In the beginning, the yarn was stored in plastic Ikea bins .", "rel": "Content-Container", "ent1": "bins", "ent2": "bins"}
+{"text": "A German soldier attaches a EUFOR sign to a vehicle.", "rel": "Instrument-Agency", "ent1": "soldier", "ent2": "soldier"}
+{"text": "The letter was sent from the deathbed of the former KGB spy, Alexander Litvinenko, who died this Saturday after being poisoned with radioactive poison earlier in the month.", "rel": "Entity-Origin", "ent1": "deathbed", "ent2": "deathbed"}
+{"text": "It removes the hair to the precise contour of a perfectly shaped eyebrow .", "rel": "Entity-Origin", "ent1": "eyebrow", "ent2": "eyebrow"}
+{"text": "The big bang was caused by the collision of two parallel universes.", "rel": "Cause-Effect", "ent1": "bang", "ent2": "bang"}
+{"text": "Flamenco and bullfight cultural icons such as the ghostly bullhorns of the bullfight, or the anvil of the Romani (gypsy) blacksmiths are used in these paintings to visually sing a seguiriyas.", "rel": "Instrument-Agency", "ent1": "blacksmiths", "ent2": "blacksmiths"}
+{"text": "This movie is a depiction of the last twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.", "rel": "Message-Topic", "ent1": "hours", "ent2": "hours"}
+{"text": "The carrier polymers are migrating into the target organs .", "rel": "Entity-Destination", "ent1": "organs", "ent2": "organs"}
+{"text": "The flour was in a can marked \"sugar\" and the tea was in a box marked \"salt.\"", "rel": "Content-Container", "ent1": "can", "ent2": "can"}
+{"text": "An emerging bratpack of young female pornographers is storming the market and challenging lads' magazines such as FHM and Esquire..", "rel": "Member-Collection", "ent1": "bratpack", "ent2": "bratpack"}
+{"text": "The signal peptide is derived from a protein that is exported by the cell.", "rel": "Entity-Origin", "ent1": "protein", "ent2": "protein"}
+{"text": "The handle of the stick was covered with plastic material for more durability (Figure - 3).", "rel": "Component-Whole", "ent1": "stick", "ent2": "stick"}
+{"text": "For the original stud farm, desirous of producing the best horses for the dragoons and hussars, the lighter horse of a square frame was the ideal.", "rel": "Instrument-Agency", "ent1": "dragoons", "ent2": "dragoons"}
+{"text": "At the same time in this very same region, lived a tribe of Muslim natives known as Almamy.", "rel": "Member-Collection", "ent1": "tribe", "ent2": "tribe"}
+{"text": "The conceptual foundation for creation of the Internet was largely created by three individuals and a research conference, each of which changed the way we thought about technology by accurately predicting its future.", "rel": "Product-Producer", "ent1": "individuals", "ent2": "individuals"}
+{"text": "The sense was extended from the language to the people who spoke it.", "rel": "Other", "ent1": "language", "ent2": "language"}
+{"text": "The tea was in a cup and not as the menu suggested in a pot.", "rel": "Content-Container", "ent1": "cup", "ent2": "cup"}
+{"text": "A Golden retriever was in a crate in the back of the vehicle when it was stolen.", "rel": "Content-Container", "ent1": "crate", "ent2": "crate"}
+{"text": "Streema is an online radio tuner to listen, discover and share radios with your friends.", "rel": "Other", "ent1": "tuner", "ent2": "tuner"}
+{"text": "Gazan police have rebuilt at least one of their stations out of mud and residents throughout the territory have used mud to build simple homes.", "rel": "Instrument-Agency", "ent1": "police", "ent2": "police"}
+{"text": "The sacrifices were thrown into the volcano .", "rel": "Entity-Destination", "ent1": "volcano", "ent2": "volcano"}
+{"text": "As for the main attraction: the pnuematic function allowing the crane arm to be raised and lowered, well, it's a simple job made a little more complex.", "rel": "Component-Whole", "ent1": "crane", "ent2": "crane"}
+{"text": "I looked straight under the nose of the plane and sure enough, I was directly over the tiny airstrip.", "rel": "Component-Whole", "ent1": "plane", "ent2": "plane"}
+{"text": "The metacorpora ware misplaced into the isthmus .", "rel": "Entity-Destination", "ent1": "isthmus", "ent2": "isthmus"}
+{"text": "A witness statement is a statement summarising the oral evidence that a witness will give at trial.", "rel": "Message-Topic", "ent1": "evidence", "ent2": "evidence"}
+{"text": "We saw an aerie of eleven eagles soaring majestically alongside us on the heights of Monte Espino.", "rel": "Member-Collection", "ent1": "aerie", "ent2": "aerie"}
+{"text": "The couple got out safely from the area .", "rel": "Entity-Origin", "ent1": "area", "ent2": "area"}
+{"text": "The chemicals used for screen reclamation are some of the most hazardous products in a screen printing facility.", "rel": "Other", "ent1": "reclamation", "ent2": "reclamation"}
+{"text": "The Banko kilns were founded by the potter Nunami Ro-zan (1718-77) who often imitated the work of Kenzan (1663-1743).", "rel": "Product-Producer", "ent1": "potter", "ent2": "potter"}
+{"text": "In reality, however, the drama has been caused by the erupting ash and smoke colliding with a lightning storm.", "rel": "Cause-Effect", "ent1": "drama", "ent2": "drama"}
+{"text": "At the same time in this very same region, lived a tribe of Muslim natives known as Almamy.", "rel": "Member-Collection", "ent1": "tribe", "ent2": "tribe"}
+{"text": "Grape brandy is made from fermented grape juice .", "rel": "Entity-Origin", "ent1": "juice", "ent2": "juice"}
+{"text": "The photodeflection technique or mirage method consists in periodically heating a sample with a pump laser modulated by an optical chopper.", "rel": "Component-Whole", "ent1": "laser", "ent2": "laser"}
+{"text": "These implants were placed into function .", "rel": "Other", "ent1": "function", "ent2": "function"}
+{"text": "His work has led to new treatments for addicts, tests for drug intoxication and understanding of how heroin , other opiates and cocaine cause dependence and withdrawal .", "rel": "Cause-Effect", "ent1": "withdrawal", "ent2": "withdrawal"}
+{"text": "The missile was placed inside a canister and loaded into a launch facility.", "rel": "Entity-Destination", "ent1": "canister", "ent2": "canister"}
+{"text": "The armature has a coil of wire wrapped around an iron core.", "rel": "Component-Whole", "ent1": "armature", "ent2": "armature"}
+{"text": " Talks have moved into a new topic .", "rel": "Entity-Destination", "ent1": "topic", "ent2": "topic"}
+{"text": "It covers the basic concepts in a clean and slick tutorial .", "rel": "Message-Topic", "ent1": "basic concepts", "ent2": "basic concepts"}
+{"text": "The increase in customers, though, caused a strain on the company servers.", "rel": "Cause-Effect", "ent1": "strain", "ent2": "strain"}
+{"text": "The greatest impact of the tsunami was generally in an east-west direction, so the havoc caused by the tsunami along the southwestern shores of Sri Lanka was not as severe as along the eastern coast.", "rel": "Cause-Effect", "ent1": "havoc", "ent2": "havoc"}
+{"text": "On National day, the government bestowed awards to deserving individuals .", "rel": "Entity-Destination", "ent1": "individuals", "ent2": "individuals"}
+{"text": "Even the fan blades inside the engine are designed to be quieter.", "rel": "Component-Whole", "ent1": "engine", "ent2": "engine"}
+{"text": "The NRC, RSO, and the First Bank representative accessed the vault with the key .", "rel": "Instrument-Agency", "ent1": "representative", "ent2": "representative"}
+{"text": "\"V\" starts with the arrival of a couple of dozen ships from outer space , piloted by creatures who look like humans except a lot prettier.", "rel": "Entity-Origin", "ent1": "space", "ent2": "space"}
+{"text": "Local fisherman heated some of their catch cooked over coals in a scuttle .", "rel": "Content-Container", "ent1": "scuttle", "ent2": "scuttle"}
+{"text": "One small piece of fleece or other soft, slightly thick material (to protect your iPod from the rivet of the button on the inside of the pocket).", "rel": "Component-Whole", "ent1": "button", "ent2": "button"}
+{"text": "The origin of the superficial extensors is from a flattened common extensor tendon .", "rel": "Other", "ent1": "tendon", "ent2": "tendon"}
+{"text": "This is a disturbing remark from the author which indicates just how arrogant and distant the police have become.", "rel": "Product-Producer", "ent1": "author", "ent2": "author"}
+{"text": "They rail against the coffeehouse fellowship of the artisans and others.", "rel": "Member-Collection", "ent1": "fellowship", "ent2": "fellowship"}
+{"text": "The old man went into diabetic coma .", "rel": "Other", "ent1": "coma", "ent2": "coma"}
+{"text": "The tardiness however has been caused by the arrival of my old man; who in true Bloodworth fashion has had me walking everywhere.", "rel": "Cause-Effect", "ent1": "tardiness", "ent2": "tardiness"}
+{"text": "It produces a wine descended from a local vine , Galbena de Odobesti, a light white wine, little aromatic but appreciated for its freshness and its balance.", "rel": "Product-Producer", "ent1": "wine", "ent2": "wine"}
+{"text": "The light that is currently reaching the Earth was generated in the sun approximately 100000 years ago.", "rel": "Cause-Effect", "ent1": "light", "ent2": "light"}
+{"text": "Taking a stick of dynamite from their mule, the shooter assembles the hand-charge with two caps and fuses - which is now considered live.", "rel": "Instrument-Agency", "ent1": "shooter", "ent2": "shooter"}
+{"text": "The sample was contained in a 5-mm glass tube surrounded by oscillator and receiver coils at right angles to one another.", "rel": "Content-Container", "ent1": "glass tube", "ent2": "glass tube"}
+{"text": "The book 's author is so historically significant that any of his or her written works may be considered notable.", "rel": "Product-Producer", "ent1": "author", "ent2": "author"}
+{"text": " Sadness leads to inspiration , so in this story of love and hate, respect and betrayal, learn about the history of the Mexican Wrestling Wars.", "rel": "Cause-Effect", "ent1": "inspiration", "ent2": "inspiration"}
+{"text": "The machine processes the blood using a centrifugal pump , which separates the components of the blood and the plasma.", "rel": "Component-Whole", "ent1": "machine", "ent2": "machine"}
+{"text": "A series of steps takes you to the top of the falls where you get a wide and spectacular view of the stone bowl that the creek has carved over the ages .", "rel": "Other", "ent1": "ages", "ent2": "ages"}
+{"text": "The marsupial pouch helps keep the young attached to a teat.", "rel": "Component-Whole", "ent1": "marsupial", "ent2": "marsupial"}
+{"text": "When the guard happened upon a mass grave dug by this sick fool , a massive, horned, disgusting behemoth was digging itself out.", "rel": "Product-Producer", "ent1": "fool", "ent2": "fool"}
+{"text": "The laptop was in the desk .", "rel": "Other", "ent1": "desk", "ent2": "desk"}
+{"text": "The sink was in a cabinet type stand with the sides of the sink being the same porcelain coated cast iron as the sink.", "rel": "Component-Whole", "ent1": "stand", "ent2": "stand"}
+{"text": "To use it, a person applies the vinegar to a cotton ball and then swabs the vinegar on the affected area.", "rel": "Instrument-Agency", "ent1": "person", "ent2": "person"}
+{"text": "He also appeared in a television commercial against internet movie piracy .", "rel": "Message-Topic", "ent1": "piracy", "ent2": "piracy"}
+{"text": "In fact, this is not so far removed from the famous ziggurat , the huge building erected by the emperor to communicate with the god Marduk.", "rel": "Product-Producer", "ent1": "emperor", "ent2": "emperor"}
+{"text": "With iterpipes, python is ready to replace the bash shell for scripting .", "rel": "Other", "ent1": "scripting", "ent2": "scripting"}
+{"text": "But the role is also under scrutiny in this affair.", "rel": "Other", "ent1": "scrutiny", "ent2": "scrutiny"}
+{"text": "Large rafters of turkeys have drown by standing out in the rain, looking up at it, with their mouths open.", "rel": "Member-Collection", "ent1": "rafters", "ent2": "rafters"}
+{"text": "The organization has also been the subject of much conspiracy parody .", "rel": "Message-Topic", "ent1": "organization", "ent2": "organization"}
+{"text": " Weak ligaments are caused by problems with collagen (protein fibres in the ligaments).", "rel": "Cause-Effect", "ent1": "Weak ligaments", "ent2": "Weak ligaments"}
+{"text": "A deposit ages, soil formation, weathering , diagenetic processes, and earthquake shaking lead to consolidation and cementation of the sediment.", "rel": "Cause-Effect", "ent1": "cementation", "ent2": "cementation"}
+{"text": "This article is about pre-existing conditions with respect to health insurance .", "rel": "Other", "ent1": "health insurance", "ent2": "health insurance"}
+{"text": "I'm about to delve into Buchholz's pitch F/X and pitch data to try to find some sort of answer here using guidelines from Allen's article plus Buchholz's run values as shown here.", "rel": "Entity-Origin", "ent1": "article", "ent2": "article"}
+{"text": "They calculated the exit positions of the backscattered electrons from a single-scattering approach .", "rel": "Other", "ent1": "approach", "ent2": "approach"}
+{"text": "But the problem requires a broader solution - one that is consistent with the new U.S. commitment to cross-border cooperation.", "rel": "Other", "ent1": "solution", "ent2": "solution"}
+{"text": "For cricket, we use a ball with pellets inside it, which make a noise.", "rel": "Component-Whole", "ent1": "ball", "ent2": "ball"}
+{"text": "The gist of trespass is direct physical interference with another's exclusive possession of land.", "rel": "Other", "ent1": "interference", "ent2": "interference"}
+{"text": "The influence of hole shape on extraordinary optical transmission was investigated using hole arrays consisting of rectangular holes with different aspect ratios.", "rel": "Member-Collection", "ent1": "arrays", "ent2": "arrays"}
+{"text": "This house has a false front door facing the river and a real entrance on Wilmington Street.", "rel": "Component-Whole", "ent1": "house", "ent2": "house"}
+{"text": "Amendment 4 removed the subsection which applies the measure to partner authorities of local authorities.", "rel": "Instrument-Agency", "ent1": "subsection", "ent2": "subsection"}
+{"text": " Dizziness was caused by whiplash and head injury .", "rel": "Cause-Effect", "ent1": "Dizziness", "ent2": "Dizziness"}
+{"text": "All infrastructure is falling into disrepair .", "rel": "Other", "ent1": "disrepair", "ent2": "disrepair"}
+{"text": "The R&B singer has issued a statement expressing remorse 'over what transpired' and saying he is seeking counselling.", "rel": "Product-Producer", "ent1": "singer", "ent2": "singer"}
+{"text": "Below is a list of the books of the bible .", "rel": "Component-Whole", "ent1": "bible", "ent2": "bible"}
+{"text": "But my local bellowing of bullfinches prefer natural food.", "rel": "Member-Collection", "ent1": "bellowing", "ent2": "bellowing"}
+{"text": "His interview for Colonel James Critchfield of the CIA's Gehlen Organization that runs to nearly a thousand pages was hidden in the CIA's files for years.", "rel": "Content-Container", "ent1": "files", "ent2": "files"}
+{"text": "The site features comprehensive news and gossip about all Britain's biggest soaps.", "rel": "Component-Whole", "ent1": "site", "ent2": "site"}
+{"text": "The inflammation is caused by the growth of unusual bacteria, which usually results from antibiotic use.", "rel": "Cause-Effect", "ent1": "inflammation", "ent2": "inflammation"}
+{"text": "Raj driven to rage after reading about yet another weirdly spelled Web 2.0 company is struggling on TechCrunch.", "rel": "Cause-Effect", "ent1": "rage", "ent2": "rage"}
+{"text": "Like all new towns we have missed.the encouraging influence of a large body of alumni , only two of the thirty-five former graduates having entered college.", "rel": "Member-Collection", "ent1": "body", "ent2": "body"}
+{"text": "The president of the university of the Philippines is elected for a single six-year term by the University's twelve-member Board of Regents.", "rel": "Other", "ent1": "university", "ent2": "university"}
+{"text": "Expecting the lion to come out of the bushes at any moment, we were surprised to see a coalition of male cheetahs instead.", "rel": "Member-Collection", "ent1": "coalition", "ent2": "coalition"}
+{"text": "Notwithstanding problems associated with screening, many of those cancers were caused by radiation exposures shortly after the accident.", "rel": "Cause-Effect", "ent1": "cancers", "ent2": "cancers"}
+{"text": "A woman diagnosed with breast cancer today joins a huge sisterhood of cancer survivors ready to help her along the way to recovery.", "rel": "Member-Collection", "ent1": "sisterhood", "ent2": "sisterhood"}
+{"text": "The former emission arose from the primary collisional excitation .", "rel": "Cause-Effect", "ent1": "emission", "ent2": "emission"}
+{"text": "The form was printed and filled out before return by mail .", "rel": "Other", "ent1": "mail", "ent2": "mail"}
+{"text": "Specifications of electric heater thermostats include temperature ranging from 50 degrees F to 80 degrees F, current ranging from 19 A to 22 A, & voltage ranging from 120 V to 277 V.", "rel": "Component-Whole", "ent1": "heater", "ent2": "heater"}
+{"text": "At the time of the incident the front tank was full of molasses , the middle two tanks were empty and the rear tank had just been emptied.", "rel": "Content-Container", "ent1": "tank", "ent2": "tank"}
+{"text": "Tissue damage and electrode corrosion are both associatcd with high charge density stimulation.", "rel": "Other", "ent1": "corrosion", "ent2": "corrosion"}
+{"text": "The vessel went down in a typhoon and the man was discovered inside a cork buffer used to prevent damage to the ship during docking.", "rel": "Other", "ent1": "buffer", "ent2": "buffer"}
+{"text": "We have placed the candidates into roles .", "rel": "Other", "ent1": "roles", "ent2": "roles"}
+{"text": "A dissimulation of small birds arrived near our place last week and took over our tree outside.", "rel": "Member-Collection", "ent1": "dissimulation", "ent2": "dissimulation"}
+{"text": "The financial losses caused by the earthquake were estimated at $7 million.", "rel": "Cause-Effect", "ent1": "losses", "ent2": "losses"}
+{"text": "Aldergrove airport in Belfast was once renowned for the sight of a warren of 80 hares feeding between the runways.", "rel": "Member-Collection", "ent1": "warren", "ent2": "warren"}
+{"text": "When she had her last surgery in March, her grandma got her a suitcase with new pajamas in it.", "rel": "Content-Container", "ent1": "suitcase", "ent2": "suitcase"}
+{"text": "The enzyme glutaminase is removed into both nerve terminals and glial cells.", "rel": "Entity-Destination", "ent1": "terminals", "ent2": "terminals"}
+{"text": "I just got in the mail a newly published book by an old friend of mine, Gordon Goldstein.", "rel": "Product-Producer", "ent1": "friend", "ent2": "friend"}
+{"text": "The burglar forgot to log out before leaving the home with two diamond rings .", "rel": "Other", "ent1": "rings", "ent2": "rings"}
+{"text": "When a bottle full of air is opened under water, the water will not enter the bottle.", "rel": "Content-Container", "ent1": "bottle", "ent2": "bottle"}
+{"text": "The ear of the mouse was used in this study.", "rel": "Component-Whole", "ent1": "mouse", "ent2": "mouse"}
+{"text": "Dr. Brian Howard is a remarkably skilled Atlanta plastic surgeon who is part of a select group of medical professionals who has certification in plastic surgery.", "rel": "Member-Collection", "ent1": "group", "ent2": "group"}
+{"text": "His new research shows that the tree trunks in the forest act like hot water bottles.", "rel": "Other", "ent1": "forest", "ent2": "forest"}
+{"text": "Part of the task which the authors set themselves is the delineation and validation of the idea that a subculture of violence exists.", "rel": "Other", "ent1": "violence", "ent2": "violence"}
+{"text": "The disruption has been caused by a sensitivity reaction in the brain to an ingested substance .", "rel": "Cause-Effect", "ent1": "disruption", "ent2": "disruption"}
+{"text": "A spokeswoman for OneWest Bank acknowledged that an official, confronted with a ream of foreclosure papers , had mistakenly signed for two different banks -- just as the Deutsche Bank official did.", "rel": "Member-Collection", "ent1": "ream", "ent2": "ream"}
+{"text": "When a key is pressed and the circuit is completed, the code generated is sent to the computer either via a keyboard cable (using on-off electrical pulses to represent bits) or over a wireless connection.", "rel": "Component-Whole", "ent1": "keyboard", "ent2": "keyboard"}
+{"text": "Waves and coastal erosion is a good general discussion of these subjects.", "rel": "Other", "ent1": "erosion", "ent2": "erosion"}
+{"text": "Rains and melting snow lead to Genesee County's biggest sewage spill of the year.", "rel": "Cause-Effect", "ent1": "spill", "ent2": "spill"}
+{"text": "I thought sometimes I saw the flash of distant spires, the sunny gleam of upland pastures, the soft undulation of purple hills .", "rel": "Other", "ent1": "hills", "ent2": "hills"}
+{"text": "Smith was referring to the fictional Kazakhstani character created by the British comedian .", "rel": "Product-Producer", "ent1": "comedian", "ent2": "comedian"}
+{"text": "Here was a woman who invented a generic plastic pouring insert a few years ago - making the spout-to-cup distance less critical.", "rel": "Product-Producer", "ent1": "woman", "ent2": "woman"}
+{"text": "These tests are a major theme of the book , so it is worth investigating them.", "rel": "Message-Topic", "ent1": "tests", "ent2": "tests"}
+{"text": "A short introductory chapter furnishes the background information .", "rel": "Message-Topic", "ent1": "background information", "ent2": "background information"}
+{"text": "The reconstitution of boards of governors takes place every 4 years and the current term of boards of governors is due to end on 30 June 2009 for controlled and maintained schools.", "rel": "Member-Collection", "ent1": "boards", "ent2": "boards"}
+{"text": "This self-help book , written by a man for the benefit of women, seems to be dividing reader opinion.", "rel": "Product-Producer", "ent1": "man", "ent2": "man"}
+{"text": "The above ticker was distilled from my daily posts to Twitter.", "rel": "Entity-Origin", "ent1": "posts", "ent2": "posts"}
+{"text": "Acid precipitation was caused when sulphur dioxides and oxides of nitrogen were released into the atmosphere .", "rel": "Entity-Destination", "ent1": "atmosphere", "ent2": "atmosphere"}
+{"text": "In future Britain, charismatic delinquent Alex DeLarge is jailed and later volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem.", "rel": "Other", "ent1": "government", "ent2": "government"}
+{"text": "The red colobus groups went away from the chimpanzees when they were alone and no potential association partner was around.", "rel": "Entity-Origin", "ent1": "chimpanzees", "ent2": "chimpanzees"}
+{"text": "The singer 's technique facilitates the message.", "rel": "Instrument-Agency", "ent1": "singer", "ent2": "singer"}
+{"text": "The fastener and delivery mechanism are core components of the EndoGastric Solutions platform , which will continue to spawn a range of innovative products for NOS.", "rel": "Component-Whole", "ent1": "platform", "ent2": "platform"}
+{"text": "In these cases of fever from constipation there are no local signs except, perhaps, a varying amount of tenderness over the sigmoid flexure of the colon, but only appreciable where the distension of gut is extreme.", "rel": "Cause-Effect", "ent1": "fever", "ent2": "fever"}
+{"text": "A battery of barracudas relies on ambush.", "rel": "Member-Collection", "ent1": "battery", "ent2": "battery"}
+{"text": "This data has been concerning primarily assembly operations .", "rel": "Other", "ent1": "operations", "ent2": "operations"}
+{"text": "The strategy covers the period to 2016, with a strong focus on 2010.", "rel": "Other", "ent1": "focus", "ent2": "focus"}
+{"text": "The drug release from the microcapsules was diffusion controlled.", "rel": "Entity-Origin", "ent1": "microcapsules", "ent2": "microcapsules"}
+{"text": "The house was packed from that moment to past midnight.", "rel": "Other", "ent1": "moment", "ent2": "moment"}
+{"text": "Liberal ideas insist on large gambles and conservatives rely on incremental small changes.", "rel": "Other", "ent1": "gambles", "ent2": "gambles"}
+{"text": "The town's most popular sculpture, however, is the high-heeled clique of Bost ladies created by Malmo artist Fred Aberg.", "rel": "Member-Collection", "ent1": "clique", "ent2": "clique"}
+{"text": "This frosted lemon cake is sweet and buttery with a wonderful citrus flavor that comes from adding both lemon zest and juice to the batter.", "rel": "Entity-Origin", "ent1": "lemon", "ent2": "lemon"}
+{"text": "The brothers wrote this movie after coming up with the characters.", "rel": "Product-Producer", "ent1": "brothers", "ent2": "brothers"}
+{"text": "The theme of the speech was about dreams coming true.", "rel": "Message-Topic", "ent1": "dreams", "ent2": "dreams"}
+{"text": "Autologous blood clot is useful to occlude and repair perforations in small side branches of the coronary artery without myocardial damage.", "rel": "Other", "ent1": "clot", "ent2": "clot"}
+{"text": "After soaking them overnight, we slipped the beans into a fairly wide-necked wine flask that's been peeled of its straw wrapper.", "rel": "Entity-Destination", "ent1": "flask", "ent2": "flask"}
+{"text": "Forward motion of the vehicle through the air caused a suction on the road draft tube.", "rel": "Cause-Effect", "ent1": "suction", "ent2": "suction"}
+{"text": "Much of the work on continuous culture of bacteria has been carried out with aerobic bacteria, though little has been done with strict anaerobes.", "rel": "Other", "ent1": "bacteria", "ent2": "bacteria"}
+{"text": "These changes can be caused by the tumor itself, by increased pressure within the skull caused by the presence of the tumor .", "rel": "Cause-Effect", "ent1": "increased pressure", "ent2": "increased pressure"}
+{"text": "The slide system consists of a slideway and a sliding element, whereas the slide system is connected to at least one piston and the crank of the shaft .", "rel": "Component-Whole", "ent1": "shaft", "ent2": "shaft"}
+{"text": "Tea-related scenes form the subject of paintings and drawings.", "rel": "Message-Topic", "ent1": "scenes", "ent2": "scenes"}
+{"text": "Day two in the Sacred Valley began with a trip to a local Chicha ( corn beer ) brewery, but there was more there than just beer.", "rel": "Entity-Origin", "ent1": "corn", "ent2": "corn"}
+{"text": "Typically, varieties of this sort were grown on flat land by peasants .", "rel": "Other", "ent1": "peasants", "ent2": "peasants"}
+{"text": "A penal code is a portion of a state's laws defining crimes and specifying the punishment.", "rel": "Message-Topic", "ent1": "crimes", "ent2": "crimes"}
+{"text": "All aspects are indicated with colour light signals .", "rel": "Other", "ent1": "signals", "ent2": "signals"}
+{"text": "I'm not a violent person and the gun was locked in a safe away from anyone.", "rel": "Content-Container", "ent1": "safe", "ent2": "safe"}
+{"text": "The show centered around a beach theme .", "rel": "Message-Topic", "ent1": "beach theme", "ent2": "beach theme"}
+{"text": "A Tamil man , who escaped from an LTTE rebel-held area following heavy fighting, looks on as he arrives at a temporary refugee camp in Vavuniya.", "rel": "Entity-Origin", "ent1": "area", "ent2": "area"}
+{"text": "Arcane Subtlety reduced the threat caused by Polymorph by 40% at max rank, though the threat caused by the spell is minimal.", "rel": "Cause-Effect", "ent1": "threat", "ent2": "threat"}
+{"text": "A teacher is writing vocabulary words on a green chalk board with yellow chalk in mid-afternoon.", "rel": "Instrument-Agency", "ent1": "teacher", "ent2": "teacher"}
+{"text": "The facades of the palace consist of beautifully decorated wooden doors and windows and ventilations in addition to decorated gypsum motifs.", "rel": "Component-Whole", "ent1": "palace", "ent2": "palace"}
+{"text": "After receiving parental permission for the project, students treated the chickens with a mixture of salt and baking powder.", "rel": "Instrument-Agency", "ent1": "students", "ent2": "students"}
+{"text": "The \"Rosewill LCD/plasma screen cleaner\" came with a bottle full of solution and a cloth and a spray bottle to put the solution in.", "rel": "Content-Container", "ent1": "bottle", "ent2": "bottle"}
+{"text": "Alfred Nobel created his fortune from the selling of explosives that utilized nitroglycerin.", "rel": "Cause-Effect", "ent1": "fortune", "ent2": "fortune"}
+{"text": "A client copes with replica failures using a simple retransmission mechanism .", "rel": "Instrument-Agency", "ent1": "client", "ent2": "client"}
+{"text": "He released the brake cable by detaching the retaining clip from the cable housing.", "rel": "Component-Whole", "ent1": "brake", "ent2": "brake"}
+{"text": "Manufacturing extra neutral alcohol which is the basic ingredient used for making liquor , the commodity was largely used by companies making Indian Made Foreign Liquor (IMFL).", "rel": "Entity-Origin", "ent1": "alcohol", "ent2": "alcohol"}
+{"text": "He is personally responsible for the carnage that has been caused by the fight .", "rel": "Cause-Effect", "ent1": "carnage", "ent2": "carnage"}
+{"text": "After facing the hopelessness of the future, the poet sank into despair .", "rel": "Other", "ent1": "despair", "ent2": "despair"}
+{"text": "In addition, soil and river systems have been contaminated by the harsh chemicals used in cocaine production and the air has been polluted by the smoke caused by the burning of jungle and forest for coca bush cultivation.", "rel": "Cause-Effect", "ent1": "smoke", "ent2": "smoke"}
+{"text": "The fermented cashew nut flour has the highest energy values while the boiled sample has the least.", "rel": "Entity-Origin", "ent1": "nut", "ent2": "nut"}
+{"text": "When these fuels are burned, they create air pollution that contributes to global warming and causes smog, acid rain and respiratory disease .", "rel": "Cause-Effect", "ent1": "disease", "ent2": "disease"}
+{"text": "The arrest completes a dismal past five weeks for the 25-year-old.", "rel": "Other", "ent1": "weeks", "ent2": "weeks"}
+{"text": "Eighty percent of the mortgage fraud has been caused by the banks and the lending institutions .", "rel": "Cause-Effect", "ent1": "fraud", "ent2": "fraud"}
+{"text": "The scientists poured money into pint cancer research .", "rel": "Entity-Destination", "ent1": "cancer research", "ent2": "cancer research"}
+{"text": " Swelling of the resin is caused by the expansion of the structure as a result of water (or other liquid) molecules penetrating the matrix.", "rel": "Cause-Effect", "ent1": "Swelling", "ent2": "Swelling"}
+{"text": "The alarm has one sounder based in the entrance hall for entry and exit sound.", "rel": "Component-Whole", "ent1": "alarm", "ent2": "alarm"}
+{"text": "The jar from the fall had caused a subdural hematoma on the right front side of my brain that shows up in the CT.", "rel": "Cause-Effect", "ent1": "hematoma", "ent2": "hematoma"}
+{"text": "Shortly after injection, the poison is going into the blood vessels .", "rel": "Entity-Destination", "ent1": "vessels", "ent2": "vessels"}
+{"text": "There is a gulp of cormorants that scavenge this stretch of the Sacramento River where I usually kayak.", "rel": "Member-Collection", "ent1": "gulp", "ent2": "gulp"}
+{"text": "The method includes the formation of a two-layer semifmished product with a low-melting surface layer and simering combined with impregnation.", "rel": "Component-Whole", "ent1": "method", "ent2": "method"}
+{"text": "The dentate gyrus is a part of the hippocampus , the main memory structure, and has been shown to play a role in the forming of new memories.", "rel": "Component-Whole", "ent1": "hippocampus", "ent2": "hippocampus"}
+{"text": "Volvo stores the information in a secure and protected environment for as long as they believe it will help the company understand how to serve its clients better.", "rel": "Other", "ent1": "environment", "ent2": "environment"}
+{"text": "He painted the picture of a typical middle-class family evening in a letter to the editor.", "rel": "Message-Topic", "ent1": "evening", "ent2": "evening"}
+{"text": "Therefore, a different method is used, involving a condom, some strawberry syrup , and a piece of 1/2\" aluminium plating (not as kinky as it sounds).", "rel": "Entity-Origin", "ent1": "strawberry", "ent2": "strawberry"}
+{"text": "The site has a lounge of dedicated lizards who vote out anyone with whom they do not agree.", "rel": "Member-Collection", "ent1": "lounge", "ent2": "lounge"}
+{"text": "This government views science simply as a tool for profit generation .", "rel": "Other", "ent1": "generation", "ent2": "generation"}
+{"text": "The dissertations reported on a research project of some kind.", "rel": "Message-Topic", "ent1": "research project", "ent2": "research project"}
+{"text": "The breakdown of the linear relation of J,1 D at peakeffect region indicates that the peakeffect originates from an addition pinning effect .", "rel": "Cause-Effect", "ent1": "peakeffect", "ent2": "peakeffect"}
+{"text": "Such formulations are already found in the apostolic writings .", "rel": "Message-Topic", "ent1": "formulations", "ent2": "formulations"}
+{"text": "Joseph Herrin, a dear brother in the Lord, has added insight into the message .", "rel": "Entity-Destination", "ent1": "message", "ent2": "message"}
+{"text": "The tsunamis triggered by the massive earthquakes plunged those provinces into crisis: the number of people dead and missing has reached to 245,782 people.", "rel": "Cause-Effect", "ent1": "tsunamis", "ent2": "tsunamis"}
+{"text": "The bottles contained a substance authorities believe is human fat.", "rel": "Content-Container", "ent1": "bottles", "ent2": "bottles"}
+{"text": "It was a stinker of a day and we were accompanied by a bothersome business of flies .", "rel": "Member-Collection", "ent1": "business", "ent2": "business"}
+{"text": "One of the nicest ways to spend an afternoon anywhere is to take a boat from the port of Ouchy on the Lakefront of Lausanne.", "rel": "Entity-Origin", "ent1": "port", "ent2": "port"}
+{"text": "He stuffed the letter into the breast pocket of his suit and slipped the enclosed DVD into the player.", "rel": "Entity-Destination", "ent1": "pocket", "ent2": "pocket"}
+{"text": "This is a list of films that feature extraterrestrial life .", "rel": "Message-Topic", "ent1": "extraterrestrial life", "ent2": "extraterrestrial life"}
+{"text": "Rodrigues, who is also the governor of Punjab has been accused by the congress of various murky deals worth billions of rupees.", "rel": "Other", "ent1": "deals", "ent2": "deals"}
+{"text": "This oven has a meat probe so I tried it in the lasagna at a set temperature of 165 degrees.", "rel": "Component-Whole", "ent1": "oven", "ent2": "oven"}
+{"text": "It was an elegant book that treats the painter 's life and works with reverence.", "rel": "Product-Producer", "ent1": "painter", "ent2": "painter"}
+{"text": "Before he leaves Ephesus, however, a riot breaks out, instigated by the silversmiths who manufacture idols of the goddess Artemis; they are afraid that Paul's evangelistic success will ruin their business.", "rel": "Cause-Effect", "ent1": "riot", "ent2": "riot"}
+{"text": "Real gamers use keys neck ties .", "rel": "Instrument-Agency", "ent1": "gamers", "ent2": "gamers"}
+{"text": "He posted the answers to the website .", "rel": "Entity-Destination", "ent1": "website", "ent2": "website"}
+{"text": "I forgot to shut the bathroom door before showering and the steam set off the smoke alarm on the wall between the bathroom and my bedroom.", "rel": "Cause-Effect", "ent1": "alarm", "ent2": "alarm"}
+{"text": "I found a wallet once with 30 quid in it, I handed in the wallet but took the money.", "rel": "Content-Container", "ent1": "wallet", "ent2": "wallet"}
+{"text": "Professional painters use a 5-gallon bucket with a roller screen.", "rel": "Instrument-Agency", "ent1": "painters", "ent2": "painters"}
+{"text": "Anyway, when he read that Stacey had spent the night beneath the stare of more than 30 owls , his interest was piqued.", "rel": "Member-Collection", "ent1": "stare", "ent2": "stare"}
+{"text": "The reagent was contained in a \" holding dam \" of melted paraffin wax approximately 2 inches in diameter.", "rel": "Content-Container", "ent1": "holding dam", "ent2": "holding dam"}
+{"text": "There was the glitter of admirals and generals before the high altar, and the brighter colors of the representatives of powers and potentates.", "rel": "Other", "ent1": "admirals", "ent2": "admirals"}
+{"text": "This website, www.fertilityuk.org, shows how to interpret the changes that take place in the mucus secretions produced by the cells lining the cervix.", "rel": "Product-Producer", "ent1": "cells", "ent2": "cells"}
+{"text": "They weave fine cloth, and they use the down of water-sheep in making it; it is called Hai-hsi-pu (cloth from the west of the sea).", "rel": "Entity-Origin", "ent1": "water-sheep", "ent2": "water-sheep"}
+{"text": "In this study, we examined the suspension of solid particles in a vessel equipped with dual traditional impellers.", "rel": "Content-Container", "ent1": "vessel", "ent2": "vessel"}
+{"text": "A sailing boat has the large mainsail , a smaller foresail and perhaps a large balloon-like spinnaker at the very front.", "rel": "Component-Whole", "ent1": "boat", "ent2": "boat"}
+{"text": "A sliding knife is a knife which is opened by sliding the knife blade out the front of the handle.", "rel": "Component-Whole", "ent1": "knife", "ent2": "knife"}
+{"text": "During the period of Professor Mikko Niemi (1965-1996) the focus of research was in male reproduction biology .", "rel": "Message-Topic", "ent1": "male reproduction biology", "ent2": "male reproduction biology"}
+{"text": "The safety valve of the first tank was actuated after 16 min and 27 s, while the safety valve of the second tank was actuated after 16 min and 53 s.", "rel": "Component-Whole", "ent1": "tank", "ent2": "tank"}
+{"text": "A unique \"red and green\" army of trade union and environmental campaigners was on the march in an attempt to save from closure Britain's only major wind turbine manufacturing plant .", "rel": "Product-Producer", "ent1": "plant", "ent2": "plant"}
+{"text": "Blast fishing or dynamite fishing is the practice of using explosives to stun or kill fish.", "rel": "Other", "ent1": "fishing", "ent2": "fishing"}
+{"text": "The inquiry was confined to investigating marine safety issues .", "rel": "Message-Topic", "ent1": "safety issues", "ent2": "safety issues"}
+{"text": "A conical cover preserved in a ewer in Athens accords extremely well with the form of these vessels.", "rel": "Content-Container", "ent1": "ewer", "ent2": "ewer"}
+{"text": "The mistress fries the rashers in a small china fryingpan over the lamp, passing to each person the hot slices as they are done.", "rel": "Other", "ent1": "rashers", "ent2": "rashers"}
+{"text": "The world is governed by mathematical laws .", "rel": "Other", "ent1": "laws", "ent2": "laws"}
+{"text": "The whole company migrated into the country side .", "rel": "Entity-Destination", "ent1": "country side", "ent2": "country side"}
+{"text": "These oatmeal cookies are very moist with a good flavor.", "rel": "Entity-Origin", "ent1": "oatmeal", "ent2": "oatmeal"}
+{"text": "Our future leaders are learning about economics and politics from the real world .", "rel": "Other", "ent1": "world", "ent2": "world"}
+{"text": "Three poor seal pups rescued from the Yorkshire coast were released back into the wild at Seal Sands on Teesside.", "rel": "Entity-Destination", "ent1": "wild", "ent2": "wild"}
+{"text": "The apartment has a separate dining room , which can easily be converted into a third bedroom if need be.", "rel": "Component-Whole", "ent1": "apartment", "ent2": "apartment"}
+{"text": "The diamond ring was dropped into a trick-or-treater's bag .", "rel": "Entity-Destination", "ent1": "bag", "ent2": "bag"}
+{"text": "There are a few simple steps you take to ensure you have selected the correct landscape company .", "rel": "Product-Producer", "ent1": "company", "ent2": "company"}
+{"text": "Throughout the series run, the character has received positive reviews .", "rel": "Message-Topic", "ent1": "character", "ent2": "character"}
+{"text": "I've got the world in a jug , the stopper's in my hand.", "rel": "Content-Container", "ent1": "jug", "ent2": "jug"}
+{"text": "The fire inside WTC was caused by exploding fuel .", "rel": "Cause-Effect", "ent1": "fire", "ent2": "fire"}
+{"text": "By tacit approval, an order of preaching heretics who deny the infallibility of the Bible, an order of drunken and adulterous clergy , are permitted, and are at this moment holding benefices and preaching in the Church of England.", "rel": "Member-Collection", "ent1": "order", "ent2": "order"}
+{"text": "This picture frame fits photographs measuring 9 x 13 cm, 3.5 x 5 inches.", "rel": "Content-Container", "ent1": "frame", "ent2": "frame"}
+{"text": "Thus, evaluating capital punishment as a form of retribution is reduced by Sellin to merely estimating the proportion of capital murders that result in execution .", "rel": "Cause-Effect", "ent1": "execution", "ent2": "execution"}
+{"text": " Chemical weapons have been dropped into the lake .", "rel": "Entity-Destination", "ent1": "lake", "ent2": "lake"}
+{"text": "FIG. 3 is a fragmentary cross-section taken substantially along the line 3--3 of FIG. 2 and shows the flapper of the closure in its closed position.", "rel": "Component-Whole", "ent1": "closure", "ent2": "closure"}
+{"text": "They presented very extensive and detailed report on greenhouse heating with compost .", "rel": "Other", "ent1": "compost", "ent2": "compost"}
+{"text": "Fiscus was the treasury of the Roman emperor, so-called because the money was stored in baskets .", "rel": "Content-Container", "ent1": "baskets", "ent2": "baskets"}
+{"text": " Alcohol , substance abuse and poverty all lead to child abuse .", "rel": "Cause-Effect", "ent1": "child abuse", "ent2": "child abuse"}
+{"text": "We feasted upon a meal sumptuously produced by our ever-wondrous chef (Issy) and then the games commenced.", "rel": "Product-Producer", "ent1": "chef", "ent2": "chef"}
+{"text": "The sword appears in the photograph with the hilt at 10 o'clock and the blade tip at 5 o'clock.", "rel": "Component-Whole", "ent1": "sword", "ent2": "sword"}
+{"text": "Cervical cancer is caused by infection with the human papillomavirus (HPV) and is one of the most common cancers in women in developing countries.", "rel": "Cause-Effect", "ent1": "cancer", "ent2": "cancer"}
+{"text": " Flowers are carried into the chapel .", "rel": "Entity-Destination", "ent1": "chapel", "ent2": "chapel"}
+{"text": "Chilika supports the largest congregation of migratory birds in the country during winter.", "rel": "Member-Collection", "ent1": "congregation", "ent2": "congregation"}
+{"text": "Another example is the hammered dulcimer, where the player holds the hammers .", "rel": "Instrument-Agency", "ent1": "player", "ent2": "player"}
+{"text": "The test results are entered into the electronic logbook .", "rel": "Entity-Destination", "ent1": "logbook", "ent2": "logbook"}
+{"text": "For example the steppingmotor has a coil with a resistance of 5 ohm and a nominal current of 1 Amp.", "rel": "Component-Whole", "ent1": "steppingmotor", "ent2": "steppingmotor"}
+{"text": "Most of the energy from preheating your oven goes to heating the inner walls of the oven itself, not the air inside.", "rel": "Component-Whole", "ent1": "oven", "ent2": "oven"}
+{"text": "In a cloudless, new moon sky, a billion stars lit the heavens .", "rel": "Other", "ent1": "heavens", "ent2": "heavens"}
+{"text": "I remember there being an uproar because the video got out from an apartment complex and wasn't suppsoed to.", "rel": "Entity-Origin", "ent1": "complex", "ent2": "complex"}
+{"text": " Cruisers and large yachts have much more sophisticated fittings that that require more skills.", "rel": "Component-Whole", "ent1": "Cruisers", "ent2": "Cruisers"}
+{"text": "NUS today responded to the Government's announcement of the long-awaited review of university funding.", "rel": "Message-Topic", "ent1": "review", "ent2": "review"}
+{"text": "Ten years ago I started bringing a suitcase full of odd props to schools and libraries all over the world.", "rel": "Content-Container", "ent1": "suitcase", "ent2": "suitcase"}
+{"text": " Toxins are drained into the sea .", "rel": "Entity-Destination", "ent1": "sea", "ent2": "sea"}
+{"text": "This movie is a depiction of the last twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.", "rel": "Message-Topic", "ent1": "hours", "ent2": "hours"}
+{"text": "The adaptive control literature focuses primarily on adaptive stabilization , adaptive tracking, and model reference adaptive control.", "rel": "Message-Topic", "ent1": "stabilization", "ent2": "stabilization"}
+{"text": "He came back 15 minutes later with a bottle , with three lizards in it.", "rel": "Content-Container", "ent1": "bottle", "ent2": "bottle"}
+{"text": "The high temperature caused a decomposition reaction , increased the inner pressure of the reactor, and resulted in a rupture.", "rel": "Cause-Effect", "ent1": "decomposition reaction", "ent2": "decomposition reaction"}
+{"text": "The Buffs once again lacked playmakers, the wide receivers couldn't get open, the offense went away from the running game early.", "rel": "Other", "ent1": "game", "ent2": "game"}
+{"text": "Campbell, from the congressman 's own party , stepped into the fray, introducing a special bill that made an exception to the general rule in the particular case of the student, Jesus Apodaca.", "rel": "Member-Collection", "ent1": "party", "ent2": "party"}
+{"text": "The form was printed and filled out before return by mail .", "rel": "Other", "ent1": "mail", "ent2": "mail"}
+{"text": "The weight of the groceries in a shopping basket and the number of items in a shopping basket are discrete quantities.", "rel": "Content-Container", "ent1": "basket", "ent2": "basket"}
+{"text": "The poisons were poured into his veins .", "rel": "Entity-Destination", "ent1": "veins", "ent2": "veins"}
+{"text": "Three large-scale controlled observational studies have been reported on this issue .", "rel": "Message-Topic", "ent1": "issue", "ent2": "issue"}
+{"text": "The victim ran away from the perpetrators so quickly, he ran out of his shoes.", "rel": "Entity-Origin", "ent1": "perpetrators", "ent2": "perpetrators"}
+{"text": "The third bid was from a window company that does its own installation.", "rel": "Product-Producer", "ent1": "company", "ent2": "company"}
+{"text": "The rest was funded from her small family savings .", "rel": "Entity-Origin", "ent1": "savings", "ent2": "savings"}
+{"text": " Money for communication is invested into Ethernet technology .", "rel": "Entity-Destination", "ent1": "technology", "ent2": "technology"}
+{"text": "The v = 1 emission originates from an 80 AU diameter ring of maser spots centered on radio continuum source I.", "rel": "Entity-Origin", "ent1": "ring", "ent2": "ring"}
+{"text": "The film makes the point that decision-making is an important aspect of such an affair of the heart.", "rel": "Message-Topic", "ent1": "decision-making", "ent2": "decision-making"}
+{"text": "The insert starts in the left column and only spans the left column.", "rel": "Other", "ent1": "column", "ent2": "column"}
+{"text": "Each omnidirectional mic capsule is fitted with a metal alligator clip which can be attached on either side of your head.", "rel": "Component-Whole", "ent1": "capsule", "ent2": "capsule"}
+{"text": "The results were obtained after measuring the cell mass in a flask .", "rel": "Content-Container", "ent1": "flask", "ent2": "flask"}
+{"text": "The Free States of Alaska is a loose confederation of various species of bears in the far northern lands and outlands of Megatexas.", "rel": "Member-Collection", "ent1": "confederation", "ent2": "confederation"}
+{"text": "38% of the world's generated electrical energy is gained from coal .", "rel": "Entity-Origin", "ent1": "coal", "ent2": "coal"}
+{"text": "The money was contained in a bag of chamois leather, of respectable dimensions, which my banker had given me.", "rel": "Content-Container", "ent1": "bag", "ent2": "bag"}
+{"text": "These and many other stories are used by the new scientists in order to support their theory.", "rel": "Instrument-Agency", "ent1": "scientists", "ent2": "scientists"}
+{"text": " Doctors treated the cancer with an experimental bone-marrow transplant procedure at Berlin's Charite hospital.", "rel": "Instrument-Agency", "ent1": "Doctors", "ent2": "Doctors"}
+{"text": "As per traditional Indian thinking, seeing a brood of chickens along with a hen is a bad omen.", "rel": "Member-Collection", "ent1": "brood", "ent2": "brood"}
+{"text": "The author 's name gives her work a brand image that informs consumers' choices of literary and artistic works.", "rel": "Other", "ent1": "name", "ent2": "name"}
+{"text": "The defendants took advantage of Astor's diminished mental capacity to carry them out.", "rel": "Other", "ent1": "capacity", "ent2": "capacity"}
+{"text": "This car definitely has snob appeal with its good looks and saloon functionality.", "rel": "Other", "ent1": "appeal", "ent2": "appeal"}
+{"text": "A ceramist bakes the porcelain in a tin foil and further heats it by placing it an oven.", "rel": "Instrument-Agency", "ent1": "ceramist", "ent2": "ceramist"}
+{"text": "The 9/11 planes directly flew into the computer rooms .", "rel": "Entity-Destination", "ent1": "rooms", "ent2": "rooms"}
+{"text": "This heart was put inside a dog after its own heart had been removed.", "rel": "Entity-Destination", "ent1": "dog", "ent2": "dog"}
+{"text": "The vowel length was denoted by the acute accent .", "rel": "Other", "ent1": "acute accent", "ent2": "acute accent"}
+{"text": "Cordgo has developed a nifty little headphone winder to prevent your headphone cords from tangling as you as you move about during the day.", "rel": "Component-Whole", "ent1": "headphone", "ent2": "headphone"}
+{"text": "I recalled parental quotes from many yesterdays .", "rel": "Entity-Origin", "ent1": "yesterdays", "ent2": "yesterdays"}
+{"text": "That looked like an equally impenetrable city jungle of wagons , horses, small tents, and humanity.", "rel": "Member-Collection", "ent1": "jungle", "ent2": "jungle"}
+{"text": "September normally marks the arrival of the earliest run of fish into lake tributaries, and peak runs occur in October.", "rel": "Other", "ent1": "fish", "ent2": "fish"}
+{"text": "A reservation newspaper captured the mood with a headline : \"Wilma Mankiller, Cecelia Babykiller.\"", "rel": "Component-Whole", "ent1": "newspaper", "ent2": "newspaper"}
+{"text": "Most ticking is made of synthetic fibers like polyester, or acrylic.", "rel": "Entity-Origin", "ent1": "fibers", "ent2": "fibers"}
+{"text": "The noise signal was generated by a noise diode (ENR = 27 dB) and gated with a high-speed electronic switch.", "rel": "Cause-Effect", "ent1": "signal", "ent2": "signal"}
+{"text": "This article goes some wat towards, identifying some of the conflicts arose from the previous and present agricultural development .", "rel": "Cause-Effect", "ent1": "conflicts", "ent2": "conflicts"}
+{"text": "The anoxidized servewear went into the dishwasher .", "rel": "Entity-Destination", "ent1": "dishwasher", "ent2": "dishwasher"}
+{"text": "The protein migrated into the nuclei .", "rel": "Entity-Destination", "ent1": "nuclei", "ent2": "nuclei"}
+{"text": "The mobile crane can be used for demolition or earthmoving as the hook at the end of the crane can be changed to a ball or wrecking bucket, dependent on the crane hire job.", "rel": "Component-Whole", "ent1": "crane", "ent2": "crane"}
+{"text": "Lake Oswego was home to a sord of mallards who fled south during January and February, and returned in March for breeding.", "rel": "Member-Collection", "ent1": "sord", "ent2": "sord"}
+{"text": "A new documentary investigates the short career of GM's electric vehicle, the EV1.", "rel": "Message-Topic", "ent1": "career", "ent2": "career"}
+{"text": "An oak tree grows from an acorn .", "rel": "Entity-Origin", "ent1": "acorn", "ent2": "acorn"}
+{"text": "The fueltruck was contained in a large box to ensure that any spilled diesel would be contained.", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "\"Know that you are in our thoughts and our prayers,\" the president said in a message released two days early because of Christmas.", "rel": "Product-Producer", "ent1": "president", "ent2": "president"}
+{"text": "We have poured billions into airline safety .", "rel": "Entity-Destination", "ent1": "safety", "ent2": "safety"}
+{"text": "The misery of the passengers had started from Singapore as the plane took off from the city seven hours behind schedule.", "rel": "Entity-Origin", "ent1": "city", "ent2": "city"}
+{"text": "Our country is resolving the war and poverty caused by the previous administration .", "rel": "Cause-Effect", "ent1": "poverty", "ent2": "poverty"}
+{"text": "The children ate the cake with a spoon .", "rel": "Instrument-Agency", "ent1": "children", "ent2": "children"}
+{"text": "The 25-member steering committee that drafted the document also passed it through two Palestinian GFM organizers.", "rel": "Product-Producer", "ent1": "committee", "ent2": "committee"}
+{"text": "The first board was comprised of the county judge and the five district court judges of Bexar County.", "rel": "Member-Collection", "ent1": "board", "ent2": "board"}
+{"text": "In the 1998 crisis, capital flight caused a crisis on the currency markets, as the removal of funds from Russia necessarily entailed the conversion of rubles to dollars.", "rel": "Cause-Effect", "ent1": "crisis", "ent2": "crisis"}
+{"text": "A lamentation of swans is swimming on the lake, some are on the shore, and others are flying.", "rel": "Member-Collection", "ent1": "lamentation", "ent2": "lamentation"}
+{"text": "Arcane Subtlety reduced the threat caused by Polymorph by 40% at max rank, though the threat caused by the spell is minimal.", "rel": "Cause-Effect", "ent1": "threat", "ent2": "threat"}
+{"text": "Most techniques to \"thicken\" the eyebrow hair are actually meant to give the appearance of thicker eyebrows, without really affecting the eyebrow hair growth itself.", "rel": "Component-Whole", "ent1": "hair", "ent2": "hair"}
+{"text": "Still filled with rage after the fight with the Darkside, I rush at Ansem, light and dark energy overflowing from me.", "rel": "Other", "ent1": "fight", "ent2": "fight"}
+{"text": "Cylindrical defects in the trochanter area of 18 rabbit femora were filled with BG granules .", "rel": "Content-Container", "ent1": "defects", "ent2": "defects"}
+{"text": "The smallest star was completely inside the arm of the blue cross .", "rel": "Component-Whole", "ent1": "cross", "ent2": "cross"}
+{"text": "Only then did I notice an ambush of tigers pacing us on the far shore.", "rel": "Member-Collection", "ent1": "ambush", "ent2": "ambush"}
+{"text": "The e-mail was sent from the private account of a member from Guarding Our Children Against Marijuana, or GOCAM.", "rel": "Entity-Origin", "ent1": "account", "ent2": "account"}
+{"text": "The cocaine was concealed inside a teddy bear .", "rel": "Content-Container", "ent1": "teddy bear", "ent2": "teddy bear"}
+{"text": "The letter described the most common symptoms of breast, colorectal, lung, prostate and skin cancers.", "rel": "Message-Topic", "ent1": "symptoms", "ent2": "symptoms"}
+{"text": "Shigang Chen and Liman Wei, both of Santa Clara, Calif., and Partha Bhattacharya of Cupertino, Calif., have developed a method for removing redundancies from a list of data structures .", "rel": "Member-Collection", "ent1": "list", "ent2": "list"}
+{"text": "People used to throw coins into this fountain .", "rel": "Entity-Destination", "ent1": "fountain", "ent2": "fountain"}
+{"text": "A number of scientific criticisms of Duesberg's hypothesis were summarised in a review article in the journal Science in 1994.", "rel": "Message-Topic", "ent1": "criticisms", "ent2": "criticisms"}
+{"text": "Other countries are also sinking into recession .", "rel": "Other", "ent1": "recession", "ent2": "recession"}
+{"text": "The promotion of tourist attractions in Baracoa, the first village founded by the Spanish conquistadors in Cuba, is the main goal of the Tourist Information Center (INFOTUR) in that eastern city.", "rel": "Product-Producer", "ent1": "conquistadors", "ent2": "conquistadors"}
+{"text": "To pass the time, he put a penny into two different coin-operated weight machines and got readings of 106 pounds and 200 pounds.", "rel": "Entity-Destination", "ent1": "machines", "ent2": "machines"}
+{"text": "The benefits from inflation which Professor Mulligan cites (e.g., bailing out underwater mortgagers) are better understood as a government sponsored transfer of wealth from savers to speculators.", "rel": "Cause-Effect", "ent1": "benefits", "ent2": "benefits"}
+{"text": "The book contains short tales , it is regarded as the first book of juvenile literature.", "rel": "Component-Whole", "ent1": "book", "ent2": "book"}
+{"text": "The 18-year-old apparently took her life with her father's service gun , which was locked in a safe box .", "rel": "Content-Container", "ent1": "safe box", "ent2": "safe box"}
+{"text": "The biggest political sex scandal came from a democrat .", "rel": "Entity-Origin", "ent1": "democrat", "ent2": "democrat"}
+{"text": "Our company has released five computer applications to the Apple's online shops .", "rel": "Entity-Destination", "ent1": "shops", "ent2": "shops"}
+{"text": "Most health related data has been developed by using animal models.", "rel": "Message-Topic", "ent1": "health", "ent2": "health"}
+{"text": "The temperature distributions in a vial during freeze-drying of a skim milk solution were determined experimentally.", "rel": "Other", "ent1": "vial", "ent2": "vial"}
+{"text": "The 2 in 1 shampoo and conditioner was in a bottle fixed on the shower wall.", "rel": "Content-Container", "ent1": "bottle", "ent2": "bottle"}
+{"text": "Global warming pollution from cars , light trucks and SUV's is the single largest source of global warming pollution generated in Maine.", "rel": "Cause-Effect", "ent1": "pollution", "ent2": "pollution"}
+{"text": "The money was contained in a bag of chamois leather, of respectable dimensions, which my banker had given me.", "rel": "Content-Container", "ent1": "bag", "ent2": "bag"}
+{"text": "The reciter stirs the water with a double-edged sword , a Khanda, which he holds in his right hand.", "rel": "Instrument-Agency", "ent1": "reciter", "ent2": "reciter"}
+{"text": "A book authored by an obscure Danish academic with little or no expertise in environmental science become an international media event.", "rel": "Product-Producer", "ent1": "academic", "ent2": "academic"}
+{"text": " Constipation is the most common cause of abdominal pain in the pediatric population.", "rel": "Cause-Effect", "ent1": "abdominal pain", "ent2": "abdominal pain"}
+{"text": "Critics of the industry maintain that private military and security companies are used by governments in order to circumvent attention.", "rel": "Instrument-Agency", "ent1": "governments", "ent2": "governments"}
+{"text": "Some charts are specific to a particular musical genre and most to a particular geographical location.", "rel": "Message-Topic", "ent1": "musical genre", "ent2": "musical genre"}
+{"text": "I read that interview you did with the guy who came up with flash mobs .", "rel": "Other", "ent1": "mobs", "ent2": "mobs"}
+{"text": "Twenty physicists sent letters to the government as an act of protest.", "rel": "Entity-Destination", "ent1": "government", "ent2": "government"}
+{"text": "We recoil at the Roman delicacy made by drowning tiny birds in wine before consuming them whole.", "rel": "Entity-Origin", "ent1": "birds", "ent2": "birds"}
+{"text": "Lionsgate has announced that they have pulled the film from its release date , but as of yet have not announced when we can expect to dee the movie in theaters.", "rel": "Other", "ent1": "date", "ent2": "date"}
+{"text": "A man who fell from a bridge along Interstate 29/35 after running from a minor crash has died.", "rel": "Entity-Origin", "ent1": "bridge", "ent2": "bridge"}
+{"text": "Both praise and blame cause concern , for they bring people hope and fear.", "rel": "Cause-Effect", "ent1": "concern", "ent2": "concern"}
+{"text": "In the book , the main female character is a woman named Messua who adopts Mowgli.", "rel": "Message-Topic", "ent1": "book", "ent2": "book"}
+{"text": "The bacteria released arsenic into the groundwater .", "rel": "Entity-Destination", "ent1": "groundwater", "ent2": "groundwater"}
+{"text": "The fad started when a certain brand of socks manufactured by an American company became popular among Japanese schoolgirls.", "rel": "Other", "ent1": "company", "ent2": "company"}
+{"text": " Enrichment of the soil with liquid seaweed extract has just enough of an alkaline effect that slugs hate.", "rel": "Other", "ent1": "extract", "ent2": "extract"}
+{"text": "One flyer was inside a box of Cracker Jacks at a Hughes Market.", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "Illegal overcharge was passed on to the customers .", "rel": "Entity-Destination", "ent1": "customers", "ent2": "customers"}
+{"text": "The shed got put up by these people who arrived and made it.", "rel": "Product-Producer", "ent1": "people", "ent2": "people"}
+{"text": "Preferably, the fuse is foreseen between the pin of the plug which projects to the outside and the inner connector of the plug.", "rel": "Component-Whole", "ent1": "plug", "ent2": "plug"}
+{"text": "STE Oil Company has all your white mineral oil needs covered.", "rel": "Entity-Origin", "ent1": "mineral", "ent2": "mineral"}
+{"text": "Indeed, a green or black basalt heart scarab was found put inside the body in its place.", "rel": "Content-Container", "ent1": "body", "ent2": "body"}
+{"text": "The exhibition comprises original drawings featuring famous landmarks between Plymouth and London.", "rel": "Message-Topic", "ent1": "landmarks", "ent2": "landmarks"}
+{"text": "The exhibition shows the hilt of the 18th century smallsword used by Captain John Paul Schott in the American Revolutionary War.", "rel": "Component-Whole", "ent1": "smallsword", "ent2": "smallsword"}
+{"text": "Many different bacteria, protozoa and viruses cause food poisoning , but most cases are the result of just a few species of bacteria.", "rel": "Cause-Effect", "ent1": "poisoning", "ent2": "poisoning"}
+{"text": "This double lie betrays what it is really all about in the coalition of the hypocrites : solidarity with the culprits.", "rel": "Member-Collection", "ent1": "coalition", "ent2": "coalition"}
+{"text": "The worst devastation around us has been caused by the abject failure of religious education .", "rel": "Cause-Effect", "ent1": "devastation", "ent2": "devastation"}
+{"text": "The performer briefly covers the window with a newspaper or jacket for 5 seconds.", "rel": "Instrument-Agency", "ent1": "performer", "ent2": "performer"}
+{"text": "These questionnaires were sent to 144 countries .", "rel": "Entity-Destination", "ent1": "countries", "ent2": "countries"}
+{"text": "That paper received favorable review .", "rel": "Message-Topic", "ent1": "paper", "ent2": "paper"}
+{"text": "Using solar electricity instead of conventional electricity sources helps to reduce pollution that causes smog , acid rain, respiratory illness and global warming.", "rel": "Cause-Effect", "ent1": "smog", "ent2": "smog"}
+{"text": "It has the fourth highest population of slum dwellers among major cities in India.", "rel": "Member-Collection", "ent1": "population", "ent2": "population"}
+{"text": "The problem comes from the widgets resembling HTC's own Sense UI widgets.", "rel": "Cause-Effect", "ent1": "problem", "ent2": "problem"}
+{"text": "To use it, a person applies the vinegar to a cotton ball and then swabs the vinegar on the affected area.", "rel": "Instrument-Agency", "ent1": "person", "ent2": "person"}
+{"text": "The editor cum scientist approached the pod with reverence , and a remote control device.", "rel": "Other", "ent1": "reverence", "ent2": "reverence"}
+{"text": "Security cameras have been installed in commuter trains to prevent groping.", "rel": "Entity-Destination", "ent1": "trains", "ent2": "trains"}
+{"text": "Snails and slugs cause damage to seedlings, flowers, vegetables and shrubs.", "rel": "Cause-Effect", "ent1": "damage", "ent2": "damage"}
+{"text": "He placed the ashes in a jar and divided them equally into eight portions.", "rel": "Entity-Destination", "ent1": "jar", "ent2": "jar"}
+{"text": "My first dog was in a crate until about a year old.", "rel": "Content-Container", "ent1": "crate", "ent2": "crate"}
+{"text": "Ahead of her the young woman stops again and is leaning over the heavy iron railing of the bridge .", "rel": "Component-Whole", "ent1": "bridge", "ent2": "bridge"}
+{"text": "Internal emails have been leaked to the public broadcasting .", "rel": "Other", "ent1": "broadcasting", "ent2": "broadcasting"}
+{"text": " Oscillation of the lever caused by the swinging of the pendulum.", "rel": "Cause-Effect", "ent1": "Oscillation", "ent2": "Oscillation"}
+{"text": "The taxi was dropped into the river killing all passengers.", "rel": "Entity-Destination", "ent1": "river", "ent2": "river"}
+{"text": "People have inherited a tendency to obesity .", "rel": "Other", "ent1": "obesity", "ent2": "obesity"}
+{"text": "Vestigial organs are parts of the body that once had a function but are now more-or-less useless.", "rel": "Component-Whole", "ent1": "body", "ent2": "body"}
+{"text": "The fortress had the only gate from the southwest.", "rel": "Component-Whole", "ent1": "fortress", "ent2": "fortress"}
+{"text": "The nun fulfills his fantasy with a kiss that would make a hooker blush.", "rel": "Other", "ent1": "kiss", "ent2": "kiss"}
+{"text": "The fundus of the stomach is that part dorsal to the cardiac ostium and refers to either its lumen or its wall.", "rel": "Component-Whole", "ent1": "stomach", "ent2": "stomach"}
+{"text": "The elephant descended from an aquatic animal .", "rel": "Entity-Origin", "ent1": "animal", "ent2": "animal"}
+{"text": "The reports regarding the casualties has been announced and the loss that has been caused by the quake is being estimated.", "rel": "Cause-Effect", "ent1": "loss", "ent2": "loss"}
+{"text": "Cabaret is a form of entertainment featuring comedy , song, dance, and theatre.", "rel": "Component-Whole", "ent1": "entertainment", "ent2": "entertainment"}
+{"text": "Cabaret is a form of entertainment featuring comedy , song, dance, and theatre.", "rel": "Component-Whole", "ent1": "entertainment", "ent2": "entertainment"}
+{"text": "The particles were dropped into the clouds before the storm occurred.", "rel": "Entity-Destination", "ent1": "clouds", "ent2": "clouds"}
+{"text": "The agitating students also put up a barricade on the Dhaka-Mymensingh highway disrupting vehicular movement for about two hours from 10:30am to 12:30pm.", "rel": "Product-Producer", "ent1": "students", "ent2": "students"}
+{"text": "This oil company imports oil to some countries illegally.", "rel": "Entity-Destination", "ent1": "countries", "ent2": "countries"}
+{"text": "The president increased the fleet by the construction of one high-class cruiser.", "rel": "Other", "ent1": "construction", "ent2": "construction"}
+{"text": "Bankers were assessing the loss caused by the poor performance of Gartmore's 340m pounds IPO this week after it needed to be scaled down and its price slashed.", "rel": "Cause-Effect", "ent1": "loss", "ent2": "loss"}
+{"text": "These people have journeyed into a mountain that is over 2,000 m high.", "rel": "Entity-Destination", "ent1": "mountain", "ent2": "mountain"}
+{"text": "The plasma was generated by an RF discharge between two parallel electrodes whose diameter was 100 mm and separation was 40 mm using pure silane gas.", "rel": "Other", "ent1": "discharge", "ent2": "discharge"}
+{"text": "Both novel and film insist upon the necessity of the past in defining who we are and how we will live in the present.", "rel": "Message-Topic", "ent1": "necessity", "ent2": "necessity"}
+{"text": "The banker , who has put up in a Sudder Street hotel , told the sleuths that he had entered India on October 20, 2009.", "rel": "Product-Producer", "ent1": "banker", "ent2": "banker"}
+{"text": " Dentists use sedation in order to provide an anxiety-free dental experience.", "rel": "Instrument-Agency", "ent1": "Dentists", "ent2": "Dentists"}
+{"text": " Democrats are running into one problem after another trying to pass the health care bill in the Senate.", "rel": "Other", "ent1": "problem", "ent2": "problem"}
+{"text": "The collaborative effort helped SA and its associate group Baandhani, a federation of slum dwellers , build strong relationships with the local government.", "rel": "Member-Collection", "ent1": "federation", "ent2": "federation"}
+{"text": "The explosives were in a box covered by sheet metal, while the wooden handle and fuse were those of the stick hand grenade.", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "In the older sections of the city the street in front of one's house is considered the person's responsibility, it is seen as an extension of their house.", "rel": "Component-Whole", "ent1": "city", "ent2": "city"}
+{"text": "The thermocouple was in a box (to prevent it from being sprayed with liquid nitrogen) and in a small block of thermal insulation (to reduce excessive cycling).", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "This study presents a comprehensive methodology for calculating the cost to society of various criminal acts .", "rel": "Other", "ent1": "acts", "ent2": "acts"}
+{"text": "Many local shops donated funds to the candidate .", "rel": "Entity-Destination", "ent1": "candidate", "ent2": "candidate"}
+{"text": "Tidal is a major departure for Cisco, a switch and router company that in the last year has been on an acquisition binge buying a number of Web 2.0 application firms.", "rel": "Product-Producer", "ent1": "company", "ent2": "company"}
+{"text": "They include sending e-mails to remind customers about abandoned items .", "rel": "Message-Topic", "ent1": "abandoned items", "ent2": "abandoned items"}
+{"text": " Adults use drugs for this purpose.", "rel": "Instrument-Agency", "ent1": "Adults", "ent2": "Adults"}
+{"text": " Toxoplasmosis is caused by infection with Toxoplasma gondii, an obligate intracellular parasite .", "rel": "Cause-Effect", "ent1": "Toxoplasmosis", "ent2": "Toxoplasmosis"}
+{"text": "They respond directly to these current vacancies mentioning the job code reference on the subject of the mail .", "rel": "Message-Topic", "ent1": "reference", "ent2": "reference"}
+{"text": "These chemical studies were directed toward proof of structure of the indole components of the seeds.", "rel": "Cause-Effect", "ent1": "proof", "ent2": "proof"}
+{"text": "Each year, many infants and toddlers die due to suffocation from breathing small objects into their breathing passages and lungs.", "rel": "Cause-Effect", "ent1": "suffocation", "ent2": "suffocation"}
+{"text": "I have put the memory card into the camera .", "rel": "Entity-Destination", "ent1": "camera", "ent2": "camera"}
+{"text": "The iron tablets were in a box on the floor.", "rel": "Content-Container", "ent1": "box", "ent2": "box"}
+{"text": "Then, we placed a bread slice into the heatproof baking dish .", "rel": "Entity-Destination", "ent1": "dish", "ent2": "dish"}
+{"text": " Contractions of the diaphragm are caused by stimulation of the vagus nerve either by the brain or by irritation anywhere along the length of the nerve.", "rel": "Cause-Effect", "ent1": "Contractions", "ent2": "Contractions"}
+{"text": "The novel depicts the harsh life of workers who worked on a crab-fishing and canning boat in the northern seas of Japan.", "rel": "Message-Topic", "ent1": "life", "ent2": "life"}
+{"text": "Sixty five million years ago an asteroid caused the extinction of the dinosaurs.", "rel": "Cause-Effect", "ent1": "extinction", "ent2": "extinction"}
+{"text": "The developed mechanism is composed of a dual coaxial high-precision goniometer , which has theta-in and theta-out axes with 0.0025\" resolution, and two crystal mounts connected to the rotation axes (Fig. 1).", "rel": "Component-Whole", "ent1": "mechanism", "ent2": "mechanism"}
+{"text": "Most of these films were tackling world issues or had a socio-political background.", "rel": "Message-Topic", "ent1": "world issues", "ent2": "world issues"}
+{"text": "The purpose of this thesis research was to examine social structure , culture, and gender as potential sources of variation in the seriousness of punishment recommended for everyday acts of wrongdoing.", "rel": "Other", "ent1": "social structure", "ent2": "social structure"}
+{"text": "I feel honored and take great pride in being the president of this society , of this family.", "rel": "Member-Collection", "ent1": "society", "ent2": "society"}
+{"text": "The sample was contained in a brass sample cup .", "rel": "Content-Container", "ent1": "cup", "ent2": "cup"}
+{"text": "There are charts for all land masses on Earth, and long-distance charts for trans-oceanic travel.", "rel": "Other", "ent1": "land masses", "ent2": "land masses"}
+{"text": "He rescheduled the birthday party to the next day .", "rel": "Entity-Destination", "ent1": "next day", "ent2": "next day"}
+{"text": "Those canvases by Mark Rothko with luminous colors floating in space make me swoon.", "rel": "Component-Whole", "ent1": "canvases", "ent2": "canvases"}
+{"text": "The ovarian tumour was put inside a plastic bag before retrieval.", "rel": "Content-Container", "ent1": "bag", "ent2": "bag"}
+{"text": "For us the term artists ' book simply means a book made by an artist; a book made as a work of art rather than as a literary artifact.", "rel": "Product-Producer", "ent1": "artists", "ent2": "artists"}
+{"text": "A multi-purpose electrician pliers tool is crucial for severing any gauge wire with which the electrician is working.", "rel": "Instrument-Agency", "ent1": "electrician", "ent2": "electrician"}
+{"text": "Four sets of wax glands , situated inside the last four ventral segments of the abdomen, produce wax for comb construction.", "rel": "Product-Producer", "ent1": "glands", "ent2": "glands"}
+{"text": "Nearly two-thirds of all burglaries involve forced entry, and they succeed partly because of flimsy door locks and mounting hardware.", "rel": "Component-Whole", "ent1": "door", "ent2": "door"}
+{"text": "There were setbacks and technical problems that ensued from the location design , flooding, and moisture that plagued the winery and bumped up the investment cost beyond the initial budgetary estimates.", "rel": "Cause-Effect", "ent1": "setbacks", "ent2": "setbacks"}
+{"text": "Harriers are large, slender hawk-like birds with long tails and long, thin legs.", "rel": "Component-Whole", "ent1": "birds", "ent2": "birds"}
+{"text": "An electro-magnetic motion-tracking system (Ascension Flock of Birds ) was installed in the ceiling of the cave to provide positional data.", "rel": "Component-Whole", "ent1": "cave", "ent2": "cave"}

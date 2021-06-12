@@ -1,0 +1,117 @@
+For query: power price
+Result is 
+maildir\weldon-c\stagecoach\13
+maildir\weldon-c\all_documents\194
+maildir\weldon-c\discussion_threads\103
+maildir\lavorato-j\all_documents\390
+maildir\white-s\deleted_items\930
+maildir\white-s\deleted_items\929
+maildir\white-s\deleted_items\745
+maildir\white-s\deleted_items\744
+maildir\kaminski-v\sent_items\895
+maildir\lavorato-j\sent\293
+==============================================================================
+For query: meeting price
+Result is 
+maildir\shively-h\calendar\13
+maildir\mckay-j\tasks\4
+maildir\rogers-b\inbox\1
+maildir\rogers-b\all_documents\1766
+maildir\campbell-l\inbox\230
+maildir\rogers-b\sent\714
+maildir\campbell-l\all_documents\1795
+maildir\campbell-l\all_documents\1258
+maildir\rogers-b\discussion_threads\304
+maildir\campbell-l\discussion_threads\1627
+==============================================================================
+For query: issues meeting offer
+Result is 
+maildir\shackleton-s\meetings\30
+maildir\shackleton-s\all_documents\11376
+maildir\mckay-b\all_documents\65
+maildir\mckay-b\sent\40
+maildir\hyvl-d\all_documents\1015
+maildir\campbell-l\all_documents\1083
+maildir\hyvl-d\gas\hpl_customers\57
+maildir\mckay-j\sent_items\96
+maildir\sanders-r\calendar\35
+maildir\campbell-l\discussion_threads\958
+==============================================================================
+For query: power offer issues
+Result is 
+maildir\ring-r\eesirenewableenergy\22
+maildir\presto-k\deleted_items\636
+maildir\lavorato-j\sent_items\102
+maildir\sager-e\calendar\32
+maildir\mckay-b\all_documents\65
+maildir\kaminski-v\deleted_items\1169
+maildir\dorland-c\sent_items\573
+maildir\mckay-b\sent\40
+maildir\mckay-j\sent_items\96
+maildir\dorland-c\_sent_mail\2
+==============================================================================
+For query: power price meeting issues offer
+Result is 
+maildir\taylor-m\all_documents\3936
+maildir\quigley-d\deleted_items\208
+maildir\rogers-b\inbox\1
+maildir\weldon-c\stagecoach\13
+maildir\weldon-c\misc__gas_issues\3
+maildir\weldon-c\misc__gas_issues\1
+maildir\kean-s\heat_wave\155
+maildir\kean-s\archiving\untitled\1166
+maildir\kean-s\calendar\untitled\1162
+maildir\kean-s\attachments\1625
+==============================================================================
+For query: power
+Result is 
+maildir\hernandez-j\sent_items\41
+maildir\taylor-m\all_documents\3936
+maildir\white-s\meetings\21
+maildir\blair-l\deleted_items\368
+maildir\blair-l\sent_items\724
+maildir\lavorato-j\analyst_associate\21
+maildir\white-s\all_documents\116
+maildir\kaminski-v\sent_items\683
+maildir\hayslett-r\inbox\194
+maildir\white-s\all_documents\22
+==============================================================================
+For query: meeting
+Result is 
+maildir\quigley-d\calendar\3
+maildir\rodrique-r\all_documents\208
+maildir\rodrique-r\sent\202
+maildir\badeer-r\all_documents\126
+maildir\keiser-k\calendar\43
+maildir\hodge-j\all_documents\221
+maildir\hyvl-d\all_documents\1570
+maildir\quigley-d\calendar\6
+maildir\hayslett-r\all_documents\209
+maildir\shively-h\deleted_items\557
+==============================================================================
+For query: offer
+Result is 
+maildir\mckay-b\all_documents\65
+maildir\mckay-b\sent\40
+maildir\mckay-j\sent_items\96
+maildir\mckay-b\_sent_mail\40
+maildir\zipper-a\sent_items\95
+maildir\weldon-c\all_documents\49
+maildir\quigley-d\deleted_items\236
+maildir\weldon-c\sent\41
+maildir\gay-r\all_documents\334
+maildir\shively-h\sent_items\20
+==============================================================================
+For query: offer
+Result is 
+maildir\mckay-b\all_documents\65
+maildir\mckay-b\sent\40
+maildir\mckay-j\sent_items\96
+maildir\mckay-b\_sent_mail\40
+maildir\zipper-a\sent_items\95
+maildir\weldon-c\all_documents\49
+maildir\quigley-d\deleted_items\236
+maildir\weldon-c\sent\41
+maildir\gay-r\all_documents\334
+maildir\shively-h\sent_items\20
+==============================================================================
